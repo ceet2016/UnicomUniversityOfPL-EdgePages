@@ -1,0 +1,1029 @@
+{
+  "siteName": "波兰联通大学",
+  "siteNameEn": "Polish University of Communications",
+  "phone": "+48 22 107 98 99",
+  "email": "uniomo{'@'}10010.edu.pl",
+  "address": "波兰华沙市大学路123号",
+  "officeHours": "周一至周五 8:30 - 17:00",
+  "nav": {
+    "home": "首页",
+    "about": "学校概况",
+    "academics": "学术研究",
+    "admissions": "招生信息",
+    "campus": "校园生活",
+    "contact": "联系我们"
+  },
+  "header": {
+    "queryLetter": "录取通知书查询",
+    "adminLogin": "管理系统登录"
+  },
+  "home": {
+    "hero": [
+      {
+        "title": "欢迎来到波兰联通大学",
+        "subtitle": "培养未来领袖，创造无限可能"
+      },
+      {
+        "title": "卓越的学术环境",
+        "subtitle": "世界一流的教学设施和研究资源"
+      },
+      {
+        "title": "国际化校园",
+        "subtitle": "与全球顶尖大学建立合作关系"
+      }
+    ],
+    "heroApply": "立即申请",
+    "heroLearnMore": "了解更多",
+    "quickLinks": "快速通道",
+    "quickLinksDesc": "一站式服务，便捷高效",
+    "links": {
+      "undergraduate": {
+        "title": "本科招生",
+        "desc": "本科专业介绍、招生计划和录取要求"
+      },
+      "graduate": {
+        "title": "研究生项目",
+        "desc": "硕士、博士学位项目招生信息"
+      },
+      "calendar": {
+        "title": "学术日历",
+        "desc": "学期安排、考试时间和假期安排"
+      },
+      "news": {
+        "title": "校园新闻",
+        "desc": "了解学校最新动态和重要通知"
+      },
+      "queryLetter": {
+        "title": "录取通知书查询",
+        "desc": "在线查询和下载录取通知书"
+      }
+    },
+    "newsTitle": "最新资讯",
+    "newsDesc": "了解学校最新动态",
+    "readMore": "阅读更多",
+    "statsTitle": "波兰联通大学数字",
+    "statsDesc": "几十年来，我们不断追求卓越",
+    "stats": [
+      {
+        "value": 12000,
+        "suffix": "+",
+        "label": "在校学生"
+      },
+      {
+        "value": 800,
+        "suffix": "+",
+        "label": "教职员工"
+      },
+      {
+        "value": 150,
+        "suffix": "+",
+        "label": "专业项目"
+      },
+      {
+        "value": 60,
+        "suffix": "+",
+        "label": "来源国家"
+      }
+    ],
+    "newsItems": [
+      {
+        "title": "我校科研团队在人工智能领域取得重大突破",
+        "desc": "近日，我校计算机科学研究团队在国际顶级期刊发表论文，提出了一种新型深度学习架构...",
+        "date": "2024-06-15",
+        "category": "科研"
+      },
+      {
+        "title": "2024年国际学术会议成功举办",
+        "desc": "来自30多个国家的200余名学者齐聚我校，共同探讨通信工程领域的前沿问题...",
+        "date": "2024-06-10",
+        "category": "学术活动"
+      },
+      {
+        "title": "第十届校园文化节隆重开幕",
+        "desc": "以创新·融合·未来为主题的第十届校园文化节于6月1日正式开幕，为期两周的文化盛宴...",
+        "date": "2024-06-01",
+        "category": "校园生活"
+      }
+    ]
+  },
+  "about": {
+    "title": "学校概况",
+    "subtitle": "了解我们的历史、愿景和使命",
+    "introText1": "波兰联通大学（Polish University of Communications）始建于1990年，坐落于波兰首都华沙市，是一所以信息通信技术为特色，工、理、管、文多学科协调发展的综合性大学。",
+    "introText2": "建校三十余年来，学校始终秉承'创新、卓越、开放、责任'的办学理念，致力于培养具有国际视野、创新精神和实践能力的高素质人才。学校拥有完善的教学设施和雄厚的师资力量，与全球100多所知名大学建立了合作关系，为学生提供广阔的国际交流平台。",
+    "introText3": "学校在人工智能、通信工程、数据科学等前沿领域取得了丰硕的研究成果，多项研究成果达到国际领先水平，为波兰乃至欧洲的信息产业发展做出了重要贡献。",
+    "historyTitle": "学校历史",
+    "historyText1": "波兰联通大学成立于1990年，是波兰第一所专注于通信与信息技术领域的高等学府。建校三十余年来，学校始终坚持'学术自由、创新引领'的办学理念，培养了大批优秀的工程技术人才和管理人才。",
+    "historyText2": "学校现有华沙主校区和克拉科夫、格但斯克两个分校区，总建筑面积达45万平方米。图书馆藏书量超过200万册，电子资源数据库120余个。",
+    "missionTitle": "使命与愿景",
+    "missionText": "致力于培养具有国际视野和创新精神的优秀人才，推动科学技术进步，服务社会发展。我们的目标是成为全球顶尖的研究型大学，在通信、计算机和电子信息领域引领世界科技发展方向。",
+    "valuesTitle": "核心价值观",
+    "values": [
+      "学术卓越",
+      "创新引领",
+      "国际视野",
+      "社会责任"
+    ],
+    "statsTitle": "我们的成就",
+    "stats": {
+      "ranking": {
+        "number": "Top 50",
+        "label": "欧洲大学排名"
+      },
+      "awards": {
+        "number": "200+",
+        "label": "科研奖项"
+      },
+      "patents": {
+        "number": "500+",
+        "label": "发明专利"
+      },
+      "partners": {
+        "number": "120+",
+        "label": "合作院校"
+      }
+    },
+    "features": [
+      {
+        "title": "卓越教学",
+        "desc": "拥有一流的教学团队和完善的教学体系，注重理论与实践相结合，培养学生的创新能力和实践能力。"
+      },
+      {
+        "title": "科研创新",
+        "desc": "在人工智能、通信工程、数据科学等前沿领域设有重点研究实验室，多项成果达到国际领先水平。"
+      },
+      {
+        "title": "国际化",
+        "desc": "与全球100多所知名大学建立合作关系，提供丰富的交换学习和联合培养项目，拓宽学生国际视野。"
+      },
+      {
+        "title": "全人教育",
+        "desc": "注重学生全面发展，提供丰富的课外活动、社团组织和文化活动，培养学生的综合素质和领导力。"
+      },
+      {
+        "title": "就业保障",
+        "desc": "与多家知名企业建立校企合作关系，提供实习和就业机会，毕业生就业率连续多年保持高水平。"
+      },
+      {
+        "title": "荣誉认证",
+        "desc": "获得多项国际教育认证，多个专业获得国际工程教育认证，学位全球认可。"
+      }
+    ],
+    "missions": [
+      {
+        "title": "使命",
+        "desc": "通过卓越的教学和研究，培养具有创新精神和国际视野的高素质人才，推动信息通信技术发展，服务社会进步。"
+      },
+      {
+        "title": "愿景",
+        "desc": "成为欧洲领先、世界知名的信息通信技术大学，在教育和研究领域产生深远影响，连接学术与未来。"
+      },
+      {
+        "title": "价值观",
+        "desc": "创新、卓越、开放、责任。我们追求学术卓越，鼓励创新思维，保持开放包容，承担社会责任。"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "1990",
+        "title": "建校",
+        "desc": "波兰联通大学在华沙市正式成立，初始设有3个系，首批招生200人。"
+      },
+      {
+        "year": "2000",
+        "title": "快速发展",
+        "desc": "新增多个院系和专业，在校学生突破5000人，建立首批国际合作项目。"
+      },
+      {
+        "year": "2010",
+        "title": "国际化",
+        "desc": "与全球50多所大学建立合作关系，启动国际交换生项目，获得国际教育认证。"
+      },
+      {
+        "year": "2020",
+        "title": "数字化转型",
+        "desc": "全面推进数字化转型，建设智慧校园，在线教育平台覆盖所有课程。"
+      },
+      {
+        "year": "2025",
+        "title": "未来展望",
+        "desc": "建设世界一流的信息通信技术大学，在人工智能等领域达到国际领先水平。"
+      }
+    ],
+    "featuresTitle": "学校特色",
+    "featuresDesc": "六大核心优势，铸就卓越品质",
+    "missionSectionTitle": "使命与愿景",
+    "missionSectionDesc": "引领信息时代，连接美好未来",
+    "timelineTitle": "历史沿革",
+    "timelineDesc": "从1990年至今，砥砺前行",
+    "contactUs": "联系我们"
+  },
+  "academics": {
+    "title": "学术研究",
+    "subtitle": "探索知识前沿，推动科技创新",
+    "overviewTitle": "学术概况",
+    "overviewText": "波兰联通大学设有8个学院，涵盖通信工程、计算机科学、电子信息、人工智能等多个学科领域。学校拥有一支高水平的教师队伍，其中80%以上具有博士学位。",
+    "programsTitle": "专业设置",
+    "programs": [
+      {
+        "name": "计算机科学与技术",
+        "degree": "学士/硕士/博士",
+        "desc": "培养计算机系统设计与开发的高级专门人才"
+      },
+      {
+        "name": "通信工程",
+        "degree": "学士/硕士/博士",
+        "desc": "聚焦现代通信技术理论与应用研究"
+      },
+      {
+        "name": "电子信息工程",
+        "degree": "学士/硕士",
+        "desc": "电子信息系统的设计、制造与应用"
+      },
+      {
+        "name": "网络工程",
+        "degree": "学士/硕士",
+        "desc": "网络系统设计、实施与安全维护"
+      },
+      {
+        "name": "软件工程",
+        "degree": "学士/硕士",
+        "desc": "软件开发过程、方法与工具的研究与应用"
+      },
+      {
+        "name": "数据科学与大数据技术",
+        "degree": "学士/硕士/博士",
+        "desc": "大数据处理、分析与可视化技术"
+      },
+      {
+        "name": "人工智能",
+        "degree": "硕士/博士",
+        "desc": "机器学习、深度学习与智能系统设计"
+      },
+      {
+        "name": "信息安全",
+        "degree": "学士/硕士",
+        "desc": "网络安全、密码学与信息保护技术"
+      }
+    ],
+    "researchTitle": "研究中心",
+    "researchCenters": [
+      {
+        "name": "人工智能研究院",
+        "desc": "聚焦机器学习、自然语言处理和计算机视觉等前沿领域"
+      },
+      {
+        "name": "通信技术实验室",
+        "desc": "5G/6G通信技术研发与标准制定"
+      },
+      {
+        "name": "网络安全中心",
+        "desc": "网络攻防、密码学与数据安全研究"
+      },
+      {
+        "name": "量子计算研究所",
+        "desc": "量子算法、量子通信与量子密码研究"
+      }
+    ],
+    "libraryTitle": "图书馆资源",
+    "libraryText": "学校图书馆拥有丰富的纸质和电子资源，为师生提供优质的学术支持服务。",
+    "libraryStats": {
+      "books": {
+        "number": "200万+",
+        "label": "纸质藏书"
+      },
+      "journals": {
+        "number": "50,000+",
+        "label": "学术期刊"
+      },
+      "databases": {
+        "number": "120+",
+        "label": "电子数据库"
+      },
+      "seats": {
+        "number": "3,000+",
+        "label": "阅览座位"
+      }
+    },
+    "researchAreas": [
+      {
+        "title": "人工智能",
+        "desc": "深度学习、自然语言处理、计算机视觉、智能决策等方向的前沿研究，在医疗AI、自动驾驶等领域取得突破性进展。",
+        "image": "/images/picsum_4.jpg",
+        "tags": [
+          "深度学习",
+          "NLP",
+          "计算机视觉"
+        ]
+      },
+      {
+        "title": "生物科技",
+        "desc": "生物信息学、基因工程、合成生物学等交叉学科研究，致力于解决人类健康和可持续发展的关键问题。",
+        "image": "/images/picsum_5.jpg",
+        "tags": [
+          "基因工程",
+          "生物信息",
+          "合成生物"
+        ]
+      },
+      {
+        "title": "环境科学",
+        "desc": "气候变化、环境污染治理、可再生能源等领域的研究，为可持续发展提供科学依据和技术支持。",
+        "image": "/images/picsum_6.jpg",
+        "tags": [
+          "气候研究",
+          "污染治理",
+          "可再生能源"
+        ]
+      },
+      {
+        "title": "数据科学",
+        "desc": "大数据分析、数据挖掘、分布式计算等方向，构建智能数据处理平台，服务科学研究和产业应用。",
+        "image": "/images/picsum_8.jpg",
+        "tags": [
+          "大数据",
+          "数据挖掘",
+          "分布式计算"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "智能医疗诊断系统",
+        "desc": "基于深度学习的医学影像分析系统，能够辅助医生进行疾病诊断，准确率已达到国际领先水平。",
+        "status": "进行中",
+        "statusClass": "status-active",
+        "leader": "张教授团队",
+        "duration": "2023-2025",
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22 12h-4l-3 9L9 3l-3 9H2\"/></svg>"
+      },
+      {
+        "title": "可持续能源解决方案",
+        "desc": "开发新型太阳能电池和储能技术，提高能源利用效率，为波兰及欧洲的能源转型提供技术支撑。",
+        "status": "已完成",
+        "statusClass": "status-done",
+        "leader": "李教授团队",
+        "duration": "2021-2024",
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"5\"/><line x1=\"12\" y1=\"1\" x2=\"12\" y2=\"3\"/><line x1=\"12\" y1=\"21\" x2=\"12\" y2=\"23\"/><line x1=\"4.22\" y1=\"4.22\" x2=\"5.64\" y2=\"5.64\"/><line x1=\"18.36\" y1=\"18.36\" x2=\"19.78\" y2=\"19.78\"/><line x1=\"1\" y1=\"12\" x2=\"3\" y2=\"12\"/><line x1=\"21\" y1=\"12\" x2=\"23\" y2=\"12\"/><line x1=\"4.22\" y1=\"19.78\" x2=\"5.64\" y2=\"18.36\"/><line x1=\"18.36\" y1=\"5.64\" x2=\"19.78\" y2=\"4.22\"/></svg>"
+      },
+      {
+        "title": "智慧城市物联网",
+        "desc": "构建城市级物联网平台，实现交通、安防、环境监测等领域的智能化管理，已在华沙市试点应用。",
+        "status": "进行中",
+        "statusClass": "status-active",
+        "leader": "王教授团队",
+        "duration": "2022-2026",
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 16V8a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2z\"/><polyline points=\"3.27 6.96 12 12.01 20.73 6.96\"/><line x1=\"12\" y1=\"22.08\" x2=\"12\" y2=\"12\"/></svg>"
+      }
+    ],
+    "resources": [
+      {
+        "title": "图书馆",
+        "desc": "藏书超过100万册，提供丰富的电子资源和数据库访问服务。"
+      },
+      {
+        "title": "实验室",
+        "desc": "拥有50余个专业实验室，配备先进的科研仪器和设备。"
+      },
+      {
+        "title": "学术期刊",
+        "desc": "学校主办3本国际学术期刊，覆盖通信、计算机和数据科学领域。"
+      },
+      {
+        "title": "学术交流",
+        "desc": "定期举办国际学术会议和讲座，促进学术交流与合作。"
+      }
+    ],
+    "sectionTitles": {
+      "researchTitle": "研究领域",
+      "researchSubtitle": "聚焦前沿科技，探索未知领域",
+      "projectsTitle": "重点项目",
+      "projectsSubtitle": "高水平科研项目，引领学术前沿",
+      "resourcesTitle": "学术资源",
+      "resourcesSubtitle": "丰富的学术资源，助力教学科研"
+    }
+  },
+  "admissions": {
+    "title": "招生信息",
+    "subtitle": "加入我们，开启卓越学术之旅",
+    "overviewTitle": "招生概况",
+    "overviewText": "波兰联通大学面向全球招收优秀学生，提供本科、硕士和博士三个层次的学位教育。我们欢迎具有创新精神和国际视野的优秀学子报考。",
+    "undergraduateTitle": "本科招生",
+    "undergraduateText": "本科专业涵盖通信、计算机、电子信息等主要领域，学制四年。申请人需具有高中毕业证书，并通过我校组织的入学考试或提供同等效力成绩证明。",
+    "graduateTitle": "研究生招生",
+    "graduateText": "硕士学制二至三年，博士学制三至五年。申请人需具有相关专业的学士学位或硕士学位，并通过我校组织的入学考试。",
+    "internationalTitle": "国际学生",
+    "internationalText": "我校热烈欢迎国际学生申请，提供多种奖学金和助学金项目。国际学生需提供语言能力证明（英语或波兰语）。",
+    "applyTitle": "申请流程",
+    "applySteps": [
+      "在线申请",
+      "提交材料",
+      "入学考试/面试",
+      "录取通知",
+      "确认入学"
+    ],
+    "deadlineTitle": "重要日期",
+    "deadlines": [
+      {
+        "date": "全年接受申请",
+        "event": "本科申请"
+      },
+      {
+        "date": "全年接受申请",
+        "event": "硕士申请"
+      },
+      {
+        "date": "全年接受申请",
+        "event": "博士申请"
+      }
+    ],
+    "contactTitle": "招生咨询",
+    "contactText": "如有任何招生相关问题，欢迎通过以下方式联系我们的招生办公室：",
+    "contactPhone": "电话",
+    "contactEmail": "电子邮件",
+    "contactOffice": "招生办公室",
+    "plans": [
+      {
+        "title": "本科招生",
+        "degree": "Bachelor Programs",
+        "deadline": "全年接受申请",
+        "duration": "4年",
+        "featured": false,
+        "features": [
+          "50+ 本科专业可选",
+          "双语教学（中英）",
+          "国际交换生机会",
+          "奖学金覆盖面广"
+        ]
+      },
+      {
+        "title": "硕士招生",
+        "degree": "Master Programs",
+        "deadline": "全年接受申请",
+        "duration": "2年",
+        "featured": true,
+        "features": [
+          "30+ 硕士专业方向",
+          "导师制个性化培养",
+          "参与前沿科研项目",
+          "国际联合培养机会"
+        ]
+      },
+      {
+        "title": "博士招生",
+        "degree": "PhD Programs",
+        "deadline": "全年接受申请",
+        "duration": "3-5年",
+        "featured": false,
+        "features": [
+          "20+ 博士研究方向",
+          "全额奖学金支持",
+          "国际会议资助",
+          "高水平论文发表指导"
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "title": "语言要求",
+        "desc": "非英语母语申请者需提供英语水平证明",
+        "items": [
+          "雅思 IELTS 6.5 分以上",
+          "托福 TOEFL 90 分以上",
+          "或同等英语水平证明"
+        ]
+      },
+      {
+        "title": "学术要求",
+        "desc": "具有良好的学术背景和学习能力",
+        "items": [
+          "本科申请：高中毕业或同等学历",
+          "硕士申请：相关专业学士学位",
+          "博士申请：相关专业硕士学位",
+          "GPA 3.0 以上者优先"
+        ]
+      },
+      {
+        "title": "申请材料",
+        "desc": "准备完整的申请材料是成功录取的关键",
+        "items": [
+          "在线申请表",
+          "学历证明和成绩单",
+          "个人陈述（PS）",
+          "推荐信 2-3 封",
+          "有效护照复印件"
+        ]
+      }
+    ],
+    "processSteps": [
+      {
+        "title": "在线申请",
+        "desc": "填写在线申请表，上传所需材料"
+      },
+      {
+        "title": "材料审核",
+        "desc": "招生委员会审核申请材料"
+      },
+      {
+        "title": "面试评估",
+        "desc": "部分专业需要参加在线面试"
+      },
+      {
+        "title": "录取通知",
+        "desc": "发放录取通知书，办理入学手续"
+      }
+    ],
+    "sectionTitles": {
+      "plansTitle": "招生计划",
+      "plansSubtitle": "本科、硕士、博士全面招生中",
+      "requirementsTitle": "入学要求",
+      "requirementsSubtitle": "了解申请条件，做好充分准备",
+      "processTitle": "申请流程",
+      "processSubtitle": "四步完成申请，轻松入学",
+      "ctaTitle": "准备好开启你的大学之旅了吗？",
+      "ctaDesc": "立即申请，加入波兰联通大学，与我们一起连接未来"
+    },
+    "featuredBadge": "推荐",
+    "deadlinePrefix": "截止日期：",
+    "durationPrefix": "学制：",
+    "applyNow": "立即申请",
+    "requirementsTitle": "入学要求",
+    "requirementsSubtitle": "了解申请条件，做好充分准备",
+    "applyStepDescs": [
+      "填写在线申请表，上传所需材料",
+      "招生委员会审核申请材料",
+      "部分专业需要参加在线面试",
+      "发放录取通知书，办理入学手续"
+    ],
+    "processTitle": "申请流程",
+    "processSubtitle": "四步完成申请，轻松入学",
+    "ctaTitle": "准备好开启你的大学之旅了吗？",
+    "ctaText": "立即申请，加入波兰联通大学，与我们一起连接未来",
+    "checkAdmission": "查询录取通知书",
+    "contactForDetails": "咨询详情"
+  },
+  "campus": {
+    "title": "校园生活",
+    "subtitle": "丰富多彩的校园文化，温暖的学习生活环境",
+    "overviewTitle": "校园概况",
+    "overviewText": "波兰联通大学拥有现代化的校园设施，为学生提供优质的学习和生活环境。校园内设有图书馆、实验室、体育场馆、学生宿舍等各类设施。",
+    "dormTitle": "学生宿舍",
+    "dormText": "学校提供多种类型的学生宿舍，房间配备基本家具和网络接口。校内宿舍距离教学楼步行不超过10分钟。",
+    "foodTitle": "餐饮服务等",
+    "foodText": "校园内有多个学生餐厅，提供中西餐、清真餐等多种选择。餐厅环境舒适，价格合理。",
+    "sportsTitle": "体育运动",
+    "sportsText": "学校设有标准田径场、室内体育馆、游泳池、网球场等各类体育设施，定期举办体育赛事。",
+    "clubsTitle": "学生社团",
+    "clubsText": "学校有100余个学生社团，涵盖学术、艺术、体育、公益等多个领域，丰富学生的课余生活。",
+    "galleryTitle": "校园风光",
+    "galleryDesc": "探索我们美丽的校园",
+    "facilities": [
+      {
+        "title": "现代化图书馆",
+        "desc": "藏书超过100万册，提供安静的学习空间和丰富的电子资源，24小时开放自习区。"
+      },
+      {
+        "title": "体育设施",
+        "desc": "标准田径场、游泳池、篮球馆、羽毛球馆等一应俱全，满足多样化的运动需求。"
+      },
+      {
+        "title": "餐饮服务",
+        "desc": "多个食堂和咖啡厅，提供中西式餐饮选择，满足不同口味需求，食品安全有保障。"
+      },
+      {
+        "title": "学生宿舍",
+        "desc": "舒适的学生公寓，配备空调、独立卫浴、高速网络，提供安全温馨的居住环境。"
+      }
+    ],
+    "activities": [
+      {
+        "title": "校园文化节",
+        "tag": "文化活动",
+        "date": "2024年6月",
+        "desc": "以\"创新·融合·未来\"为主题的第十届校园文化节，涵盖文艺演出、科技展览、创意市集等丰富活动。"
+      },
+      {
+        "title": "体育竞赛",
+        "tag": "体育活动",
+        "date": "2024年5月",
+        "desc": "一年一度的校际运动会，涵盖田径、篮球、足球、游泳等多个项目，展现学生的体育精神。"
+      },
+      {
+        "title": "学术讲座",
+        "tag": "学术活动",
+        "date": "2024年4月",
+        "desc": "邀请国际知名学者来校举办学术讲座，涵盖前沿科技、人文社科等多个领域。"
+      }
+    ],
+    "organizations": [
+      {
+        "title": "学生会",
+        "desc": "代表学生利益，组织各类校园活动，是学生与学校沟通的桥梁，培养领导力和组织能力。",
+        "members": "200+"
+      },
+      {
+        "title": "学术社团",
+        "desc": "涵盖计算机、通信、人工智能等领域的学术社团，定期举办技术分享和项目实践活动。",
+        "members": "500+"
+      },
+      {
+        "title": "兴趣俱乐部",
+        "desc": "音乐、舞蹈、摄影、书法、电竞等各类兴趣俱乐部，满足学生的多元化兴趣发展需求。",
+        "members": "800+"
+      }
+    ],
+    "sectionTitles": {
+      "facilitiesTitle": "校园设施",
+      "facilitiesSubtitle": "完善的设施，为学习生活保驾护航",
+      "activitiesTitle": "学生活动",
+      "activitiesSubtitle": "丰富多彩的校园文化，激发青春活力",
+      "orgsTitle": "学生组织",
+      "orgsSubtitle": "加入社团，拓展视野，提升能力"
+    },
+    "membersSuffix": "名成员"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "Contact Us",
+    "sectionTitle": "联系方式",
+    "sectionDesc": "随时与我们取得联系",
+    "formTitle": "发送消息",
+    "formDesc": "填写以下表单，我们将尽快回复您",
+    "name": "姓名",
+    "email": "邮箱",
+    "phone": "电话",
+    "type": "咨询类型",
+    "message": "消息内容",
+    "required": "*",
+    "namePlaceholder": "请输入您的姓名",
+    "emailPlaceholder": "请输入您的邮箱",
+    "phonePlaceholder": "请输入您的电话",
+    "typePlaceholder": "请选择",
+    "typeOptions": {
+      "admission": "招生咨询",
+      "academic": "学术咨询",
+      "general": "一般咨询",
+      "other": "其他"
+    },
+    "messagePlaceholder": "请输入您的消息",
+    "submit": "提交消息",
+    "submitting": "提交中...",
+    "success": "消息提交成功！我们将尽快与您联系。",
+    "error": {
+      "name": "请输入姓名",
+      "email": "请输入邮箱",
+      "emailInvalid": "邮箱格式不正确",
+      "message": "请输入消息内容"
+    },
+    "contactItems": [
+      {
+        "title": "地址",
+        "value": "波兰华沙市大学路123号",
+        "note": "ul. Uniwersytecka 123, Warszawa"
+      },
+      {
+        "title": "电话",
+        "value": "+48 22 107 98 99",
+        "note": "招生热线：周一至周五 9:00-17:00"
+      },
+      {
+        "title": "邮箱",
+        "value": "uniomo{'@'}10010.edu.pl",
+        "note": "我们将在 24 小时内回复您的邮件"
+      },
+      {
+        "title": "办公时间",
+        "value": "周一至周五 8:30 - 17:00",
+        "note": "节假日除外"
+      }
+    ],
+    "mapTitle": "校园位置",
+    "mapDesc": "波兰华沙市大学路123号",
+    "mapInfo": {
+      "hours": "周一至周五 8:30 - 17:00",
+      "security": "校园安全 24 小时值守"
+    }
+  },
+  "login": {
+    "title": "管理系统登录",
+    "username": "用户名",
+    "password": "密码",
+    "usernamePlaceholder": "请输入用户名",
+    "passwordPlaceholder": "请输入密码",
+    "rememberMe": "记住我",
+    "loginBtn": "登录",
+    "error": "用户名或密码错误，请重试",
+    "brandTitle": "波兰联通大学",
+    "brandTitleEn": "Polish University of Communications",
+    "brandMotto": "卓越教育 · 连接未来",
+    "brandMottoEn": "Excellence in Education, Connecting the Future",
+    "brandDesc": "波兰联通大学校务管理系统\n请使用管理员账号登录以管理录取通知书",
+    "mobileWarning": "为获得最佳体验，请使用电脑端登录管理系统",
+    "loginTitle": "校务管理系统",
+    "loginSubtitle": "管理员登录",
+    "loggingIn": "登录中...",
+    "backHome": "返回首页",
+    "queryLetter": "录取通知书查询",
+    "queryDiploma": "毕业证查询",
+    "validation": {
+      "username": "请输入用户名",
+      "password": "请输入密码"
+    },
+    "loginErrorUser": "请输入用户名",
+    "loginErrorPass": "请输入密码",
+    "loginErrorWrong": "用户名或密码错误，请重试",
+    "loginDesc": "请使用管理员账号登录以管理录取通知书"
+  },
+  "dashboard": {
+    "title": "校务管理系统",
+    "welcome": "请选择需要使用的管理功能",
+    "stats": {
+      "letters": {
+        "title": "录取通知书",
+        "desc": "已颁发"
+      },
+      "diplomas": {
+        "title": "毕业证书",
+        "desc": "已颁发"
+      },
+      "students": {
+        "title": "学生总数",
+        "desc": "在校生"
+      }
+    },
+    "quickActions": "快速操作",
+    "issueLetter": "颁发录取通知书",
+    "issueDiploma": "颁发毕业证书",
+    "queryLetter": "录取通知书查询",
+    "queryDiploma": "毕业证查询",
+    "recentLetters": "最近颁发的录取通知书",
+    "recentDiplomas": "最近颁发的毕业证书",
+    "viewBtn": "查看",
+    "downloadBtn": "下载",
+    "deleteBtn": "删除",
+    "logout": "退出登录",
+    "noData": "暂无数据",
+    "admissionLetter": "录取通知书生成",
+    "admissionLetterDesc": "填写学生信息，生成正式录取通知书，支持下载和在线查询验证。",
+    "diploma": "毕业证颁发",
+    "diplomaDesc": "为毕业生颁发正式毕业证书，支持下载和在线查询验证。",
+    "publicQuery": "公开查询入口"
+  },
+  "select": {
+    "title": "录取通知书查询",
+    "subtitle": "请输入您的姓名和身份证号/护照号进行查询",
+    "fullName": "姓名",
+    "idNumber": "身份证号/护照号",
+    "fullNamePlaceholder": "请输入姓名",
+    "idNumberPlaceholder": "请输入身份证号或护照号",
+    "searchBtn": "查 询",
+    "resetBtn": "重置",
+    "noResult": "未找到录取通知书，请核对信息后重试。",
+    "resultTitle": "录取通知书",
+    "downloadBtn": "下载原图",
+    "previewBtn": "预览",
+    "heroTitle": "录取通知书查询",
+    "heroSubtitle": "Admission Letter Verification System",
+    "cardTitle": "在线查询",
+    "cardDesc": "请输入您的个人信息以查询录取通知书",
+    "nameLabel": "姓名",
+    "idLabel": "身份证号 / 护照号",
+    "namePlaceholder": "请输入姓名",
+    "idPlaceholder": "请输入证件号码",
+    "searching": "查询中...",
+    "errorName": "请输入完整的姓名（至少2个字符）",
+    "errorId": "请输入完整的身份证号/护照号（至少6位）",
+    "errorNotFound": "未找到录取通知书，请检查姓名和身份证号是否正确",
+    "errorServer": "查询服务暂时不可用，请稍后重试或联系学校招生办公室",
+    "resultBadge": "查询成功",
+    "infoTitle": "查询说明",
+    "infoText": "请输入与录取通知书上一致的姓名和证件号码。姓名支持中文和英文，证件号码支持身份证及护照。",
+    "contactTitle": "联系方式",
+    "contactText": "如有查询问题，请联系招生办公室：uniomo{'@'}10010.edu.pl 或致电 +48 22 107 98 99。",
+    "securityTitle": "安全提示",
+    "securityText": "本查询系统仅供验证录取通知书真伪使用。请妥善保管个人信息，切勿向他人泄露证件号码。",
+    "backHome": "返回首页"
+  },
+  "diplomaSelect": {
+    "title": "毕业证书查询",
+    "subtitle": "请输入您的姓名和身份证号/护照号进行查询",
+    "fullName": "姓名",
+    "idNumber": "身份证号/护照号",
+    "fullNamePlaceholder": "请输入姓名",
+    "idNumberPlaceholder": "请输入身份证号或护照号",
+    "searchBtn": "查 询",
+    "resetBtn": "重置",
+    "noResult": "未找到毕业证书，请核对信息后重试。",
+    "resultTitle": "毕业证书",
+    "downloadBtn": "下载原图",
+    "previewBtn": "预览",
+    "heroTitle": "毕业证查询",
+    "heroSubtitle": "Diploma Verification System",
+    "cardTitle": "在线查询",
+    "cardDesc": "请输入您的个人信息以查询毕业证书",
+    "nameLabel": "姓名",
+    "idLabel": "身份证号 / 护照号",
+    "namePlaceholder": "请输入姓名",
+    "idPlaceholder": "请输入证件号码",
+    "searching": "查询中...",
+    "errorName": "请输入完整的姓名（至少2个字符）",
+    "errorId": "请输入完整的身份证号/护照号（至少6位）",
+    "errorNotFound": "未找到毕业证书，请检查姓名和身份证号是否正确",
+    "errorServer": "查询服务暂时不可用，请稍后重试或联系学校招生办公室",
+    "resultBadge": "查询成功",
+    "infoTitle": "查询说明",
+    "infoText": "请输入与毕业证书上一致的姓名和证件号码。姓名支持中文和英文，证件号码支持身份证及护照。",
+    "contactTitle": "联系方式",
+    "contactText": "如有查询问题，请联系教务处：uniomo{'@'}10010.edu.pl 或致电 +48 22 107 98 99。",
+    "securityTitle": "安全提示",
+    "securityText": "本查询系统仅供验证毕业证书真伪使用。请妥善保管个人信息，切勿向他人泄露证件号码。",
+    "backHome": "返回首页"
+  },
+  "admissionLetter": {
+    "title": "颁发录取通知书",
+    "subtitle": "填写学生信息，生成录取通知书",
+    "form": {
+      "name": "姓名",
+      "englishName": "英文姓名",
+      "idNumber": "身份证号/护照号",
+      "specialty": "专业",
+      "degree": "学位类型",
+      "year": "入学年份",
+      "semester": "入学学期",
+      "issueDate": "颁发日期",
+      "namePlaceholder": "请输入学生姓名",
+      "englishNamePlaceholder": "请输入英文姓名",
+      "idNumberPlaceholder": "请输入身份证号或护照号",
+      "specialtyPlaceholder": "请选择专业",
+      "degreePlaceholder": "请选择学位类型",
+      "yearPlaceholder": "请选择入学年份",
+      "semesterPlaceholder": "请选择入学学期",
+      "issueDatePlaceholder": "请选择颁发日期"
+    },
+    "previewBtn": "预览通知书",
+    "downloadBtn": "下载通知书图片",
+    " downloading": "生成中...",
+    "resetBtn": "重置表单",
+    "notification": {
+      "fillForm": "请完善表单信息",
+      "generated": "录取通知书已生成",
+      "downloaded": "图片已下载并保存到服务器",
+      "downloadedNoServer": "图片已下载（服务器保存失败，查询功能将不可用）",
+      "noDoc": "未找到通知书元素，请重新生成预览",
+      "error": "下载失败"
+    }
+  },
+  "diploma": {
+    "title": "颁发毕业证书",
+    "subtitle": "填写学生信息，生成毕业证书",
+    "form": {
+      "name": "姓名",
+      "englishName": "英文姓名",
+      "idNumber": "身份证号/护照号",
+      "specialty": "专业",
+      "degree": "学位类型",
+      "enrollmentYear": "入学年份",
+      "graduationDate": "毕业日期",
+      "studyDuration": "学制",
+      "namePlaceholder": "请输入学生姓名",
+      "englishNamePlaceholder": "请输入英文姓名",
+      "idNumberPlaceholder": "请输入身份证号或护照号",
+      "specialtyPlaceholder": "请选择专业",
+      "degreePlaceholder": "请选择学位类型",
+      "enrollmentYearPlaceholder": "请选择入学年份",
+      "graduationDatePlaceholder": "请选择毕业日期",
+      "studyDurationPlaceholder": "请输入学制"
+    },
+    "previewBtn": "预览毕业证",
+    "downloadBtn": "下载毕业证图片",
+    " downloading": "生成中...",
+    "resetBtn": "重置表单",
+    "notification": {
+      "fillForm": "请完善表单信息",
+      "generated": "毕业证书已生成",
+      "downloaded": "图片已下载并保存到服务器",
+      "downloadedNoServer": "图片已下载（服务器保存失败，查询功能将不可用）",
+      "noDoc": "未找到证书元素，请重新生成预览",
+      "error": "下载失败"
+    },
+    "queryTitle": "毕业证查询",
+    "querySubtitle": "Diploma Verification System",
+    "onlineQuery": "在线查询",
+    "queryDesc": "请输入您的个人信息以查询录取通知书",
+    "name": "姓名",
+    "idNumber": "身份证号 / 护照号",
+    "namePlaceholder": "请输入姓名",
+    "idPlaceholder": "请输入证件号码",
+    "queryBtn": "查 询",
+    "querying": "查询中...",
+    "querySuccess": "查询成功",
+    "download": "下载原图",
+    "instructions": "查询说明",
+    "instructionsText": "请输入与录取通知书上一致的姓名和证件号码。姓名支持中文和英文，证件号码支持身份证及护照。",
+    "contact": "联系方式",
+    "contactText": "如有查询问题，请联系招生办公室：uniomo{'@'}10010.edu.pl 或致电 +48 22 107 98 99。",
+    "security": "安全提示",
+    "securityText": "本查询系统仅供验证录取通知书真伪使用。请妥善保管个人信息，切勿向他人泄露证件号码。"
+  },
+  "footer": {
+    "desc": "波兰联通大学致力于培养具有国际视野和创新精神的优秀人才，连接学术与未来，创造无限可能。",
+    "quickLinks": "快速链接",
+    "services": "服务系统",
+    "contactUs": "联系方式",
+    "library": "图书馆系统",
+    "academic": "教务管理系统",
+    "onlineLearning": "在线学习平台",
+    "calendar": "学术日历",
+    "privacy": "隐私政策",
+    "terms": "使用条款",
+    "sitemap": "网站地图",
+    "copyright": " 波兰联通大学 Polish University of Communications. All Rights Reserved."
+  },
+  "admissionLetterDoc": {
+    "mainTitle": "录取通知书",
+    "mainTitleEn": "ADMISSION LETTER",
+    "numberPrefix": "编号",
+    "infoLabels": {
+      "name": "姓名",
+      "englishName": "英文姓名",
+      "idNumber": "身份证号/护照号"
+    },
+    "body": "经审核，兹录取你为波兰联通大学 <strong>{degree}</strong> 研究生，就读 <strong>{specialty}</strong> 专业，<strong>{year}</strong> 年 <strong>{semester}</strong> 学期入学。学籍编号: <strong>{admissionNumber}</strong>。请按本通知书规定的时间，携带本通知书、身份证件及相关材料，到波兰联通大学报到注册。具体报到时间和地点请关注学校官方网站（www.10010.edu.pl）发布的相关通知。祝贺你成为波兰联通大学的一员，愿你在今后的学习生活中取得优异的成绩！",
+    "signatureRoles": {
+      "director": "招生办主任",
+      "president": "校　　长"
+    },
+    "signatureNames": {
+      "director": "GUIXIANGZHONG",
+      "president": "WANGZHENG"
+    },
+    "qrLabel": "扫码验证",
+    "noticeTitle": "重要提醒 / Important Notice",
+    "notices": [
+      "本通知书为波兰联通大学正式录取文件，请妥善保管。",
+      "报到时请携带本通知书原件、身份证件原件及复印件。",
+      "This admission letter is an official document of Polish University of Communications.",
+      "Please bring this letter and your ID documents for registration."
+    ],
+    "footerText": "波兰联通大学招生办公室",
+    "uniName": "波兰联通大学",
+    "uniNameEn": "Polish University of Communications",
+    "website": "www.10010.edu.pl"
+  },
+  "diplomaDoc": {
+    "mainTitle": "毕业证书",
+    "mainTitleEn": "GRADUATION DIPLOMA",
+    "numberPrefix": "证书编号",
+    "infoLabels": {
+      "name": "姓名",
+      "englishName": "英文姓名",
+      "idNumber": "身份证号/护照号"
+    },
+    "body": "学生 <strong>{name}</strong>（{englishName}），性别{nender}，于 <strong>{year}</strong> 年入读波兰联通大学 <strong>{specialty}</strong> 专业，修完 <strong>{degree}</strong> 学位规定的全部课程，成绩合格，准予毕业。学制 <strong>{duration}</strong>，毕业日期：<strong>{date}</strong>，证书编号：<strong>{number}</strong>。特发此证，以资证明。本证书系波兰联通大学正式颁发的学历证书，可通过学校官方网站（www.10010.edu.pl）扫描二维码验证真伪。",
+    "signatureRoles": {
+      "dean": "教务处处长",
+      "president": "校　　长"
+    },
+    "signatureNames": {
+      "dean": "GUIXIANGZHONG",
+      "president": "WANGZHENG"
+    },
+    "qrLabel": "扫码验证",
+    "noticeTitle": "重要说明 / Important Notice",
+    "notices": [
+      "本毕业证书为波兰联通大学正式学历证书，请妥善保管。",
+      "证书真伪可通过扫描右下方二维码或访问学校官网验证。",
+      "This diploma is an official document of Polish University of Communications.",
+      "Any alteration or forgery of this document is subject to legal prosecution."
+    ],
+    "footerText": "波兰联通大学",
+    "uniName": "波兰联通大学",
+    "uniNameEn": "Polish University of Communications",
+    "website": "www.10010.edu.pl"
+  },
+  "common": {
+    "backToTop": "返回顶部",
+    "backToHome": "返回首页"
+  },
+  "query": {
+    "queryTitle": "录取通知书查询",
+    "querySubtitle": "Admission Letter Verification System",
+    "onlineQuery": "在线查询",
+    "queryDesc": "请输入您的个人信息以查询录取通知书",
+    "name": "姓名",
+    "idNumber": "身份证号 / 护照号",
+    "namePlaceholder": "请输入姓名",
+    "idPlaceholder": "请输入证件号码",
+    "queryBtn": "查 询",
+    "querying": "查询中...",
+    "querySuccess": "查询成功",
+    "diplomaTitle": "毕业证书",
+    "download": "下载原图",
+    "instructions": "查询说明",
+    "instructionsText": "请输入与录取通知书上一致的姓名和证件号码。姓名支持中文和英文，证件号码支持身份证及护照。",
+    "contact": "联系方式",
+    "contactText": "如有查询问题，请联系招生办公室：uniomo{'@'}10010.edu.pl 或致电 +48 22 107 98 99。",
+    "security": "安全提示",
+    "securityText": "本查询系统仅供验证录取通知书真伪使用。请妥善保管个人信息，切勿向他人泄露证件号码。"
+  }
+}

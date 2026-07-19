@@ -1,0 +1,1029 @@
+{
+  "siteName": "Unicom University",
+  "siteNameEn": "Unicom University of PL",
+  "phone": "+48 22 107 98 99",
+  "email": "uniomo{'@'}10010.edu.pl",
+  "address": "123 University Road, Warsaw, Poland",
+  "officeHours": "Monday to Friday 8:30 - 17:00",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "academics": "Academics",
+    "admissions": "Admissions",
+    "campus": "Campus",
+    "contact": "Contact"
+  },
+  "header": {
+    "queryLetter": "Admission Letter Query",
+    "adminLogin": "Admin Login"
+  },
+  "home": {
+    "hero": [
+      {
+        "title": "Welcome to Polish University of Communications",
+        "subtitle": "Nurturing Future Leaders, Creating Infinite Possibilities"
+      },
+      {
+        "title": "Excellence Academic Environment",
+        "subtitle": "World-class Teaching Facilities and Research Resources"
+      },
+      {
+        "title": "International Campus",
+        "subtitle": "Establishing Partnerships with Top Universities Worldwide"
+      }
+    ],
+    "heroApply": "Apply Now",
+    "heroLearnMore": "Learn More",
+    "quickLinks": "Quick Access",
+    "quickLinksDesc": "One-stop service, convenient and efficient",
+    "links": {
+      "undergraduate": {
+        "title": "Undergraduate Admissions",
+        "desc": "Major introduction, admission plan and requirements"
+      },
+      "graduate": {
+        "title": "Graduate Programs",
+        "desc": "Master and PhD admission information"
+      },
+      "calendar": {
+        "title": "Academic Calendar",
+        "desc": "Semester schedule, exam dates and holidays"
+      },
+      "news": {
+        "title": "Campus News",
+        "desc": "Latest updates and important notices"
+      },
+      "queryLetter": {
+        "title": "Admission Letter Query",
+        "desc": "Query and download admission letter online"
+      }
+    },
+    "newsTitle": "Latest News",
+    "newsDesc": "Stay updated with our latest developments",
+    "readMore": "Read More",
+    "statsTitle": "Polish University of Communications in Numbers",
+    "statsDesc": "For decades, we have pursued excellence",
+    "stats": [
+      {
+        "value": 12000,
+        "suffix": "+",
+        "label": "Students"
+      },
+      {
+        "value": 800,
+        "suffix": "+",
+        "label": "Faculty"
+      },
+      {
+        "value": 150,
+        "suffix": "+",
+        "label": "Programs"
+      },
+      {
+        "value": 60,
+        "suffix": "+",
+        "label": "Countries of Origin"
+      }
+    ],
+    "newsItems": [
+      {
+        "title": "Our research team achieves major breakthrough in AI",
+        "desc": "Recently, our computer science research team published a paper in a top international journal, proposing a novel deep learning architecture...",
+        "date": "2024-06-15",
+        "category": "Research"
+      },
+      {
+        "title": "2024 International Academic Conference successfully held",
+        "desc": "Over 200 scholars from 30+ countries gathered at our university to discuss frontier issues in communications engineering...",
+        "date": "2024-06-10",
+        "category": "Academic Event"
+      },
+      {
+        "title": "The 10th Campus Culture Festival grand opening",
+        "desc": "The 10th Campus Culture Festival with the theme 'Innovation·Integration·Future' officially opened on June 1, a two-week cultural feast...",
+        "date": "2024-06-01",
+        "category": "Campus Life"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Learn about our history, vision and mission",
+    "introText1": "Founded in 1990, Polish University of Communications is located in Warsaw, the capital of Poland. It is a comprehensive university characterized by information and communication technology, with coordinated development of engineering, science, management and liberal arts.",
+    "introText2": "For over thirty years, the university has adhered to the educational philosophy of 'Innovation, Excellence, Openness, Responsibility', committed to cultivating high-quality talents with international vision, innovative spirit and practical ability. The university has complete teaching facilities and strong faculty, and has established cooperative relations with 100+ renowned universities worldwide, providing students with a broad international exchange platform.",
+    "introText3": "The university has achieved fruitful research results in cutting-edge fields such as artificial intelligence, communication engineering, and data science, with multiple research results reaching international leading levels, making important contributions to the information industry development of Poland and even Europe.",
+    "historyTitle": "Our History",
+    "historyText1": "Founded in 1990, Polish University of Communications is Poland's first higher education institution focused on communications and information technology. For over thirty years, the university has adhered to the philosophy of 'academic freedom, innovation leadership', cultivating outstanding engineering and management talents.",
+    "historyText2": "The university has a main campus in Warsaw and two branch campuses in Krakow and Gdansk, with a total construction area of 450,000 square meters. The library collection exceeds 2 million volumes, with over 120 electronic resource databases.",
+    "missionTitle": "Mission & Vision",
+    "missionText": "Committed to cultivating outstanding talents with international vision and innovative spirit, promoting scientific and technological progress, and serving social development. Our goal is to become a world-top research university, leading the development of global technology in communications, computer science and electronic information.",
+    "valuesTitle": "Core Values",
+    "values": [
+      "Academic Excellence",
+      "Innovation Leadership",
+      "Global Vision",
+      "Social Responsibility"
+    ],
+    "statsTitle": "Our Achievements",
+    "stats": {
+      "ranking": {
+        "number": "Top 50",
+        "label": "European University Ranking"
+      },
+      "awards": {
+        "number": "200+",
+        "label": "Research Awards"
+      },
+      "patents": {
+        "number": "500+",
+        "label": "Invention Patents"
+      },
+      "partners": {
+        "number": "120+",
+        "label": "Partner Universities"
+      }
+    },
+    "features": [
+      {
+        "title": "Excellence in Teaching",
+        "desc": "First-class teaching team and comprehensive teaching system, focusing on combining theory with practice, cultivating students innovation and practical abilities."
+      },
+      {
+        "title": "Frontier Research",
+        "desc": "Multiple research centers dedicated to cutting-edge research in AI, communications, data science and other fields, with internationally leading achievements."
+      },
+      {
+        "title": "International Perspective",
+        "desc": "Established cooperative relations with 100+ universities worldwide, providing students with broad international exchange platforms."
+      },
+      {
+        "title": "Beautiful Campus",
+        "desc": "Garden-like campus with advanced facilities, providing students with an ideal environment for learning and living."
+      },
+      {
+        "title": "Personalized Development",
+        "desc": "Rich elective courses and club activities, supporting students in developing personal interests and specialties."
+      },
+      {
+        "title": "Employment Support",
+        "desc": "Dedicated career guidance center and alumni network, providing comprehensive employment support and services."
+      }
+    ],
+    "missions": [
+      {
+        "title": "Mission",
+        "desc": "Through excellent teaching and research, we cultivate high-quality talents with innovative spirit and international vision, promote the development of information and communication technology, and serve social progress."
+      },
+      {
+        "title": "Vision",
+        "desc": "To become a leading university in Europe and a renowned university in the world in information and communication technology, producing far-reaching impact in education and research, connecting academia with the future."
+      },
+      {
+        "title": "Values",
+        "desc": "Innovation, Excellence, Openness, Responsibility. We pursue academic excellence, encourage innovative thinking, maintain openness and inclusiveness, and assume social responsibility."
+      }
+    ],
+    "timeline": [
+      {
+        "year": "1990",
+        "title": "Founding",
+        "desc": "Polish University of Communications was officially established in Warsaw, with 3 initial departments and 200 first enrolled students."
+      },
+      {
+        "year": "2000",
+        "title": "Rapid Development",
+        "desc": "Multiple new departments and programs were added, with enrolled students exceeding 5,000, and the first international cooperation projects were established."
+      },
+      {
+        "year": "2010",
+        "title": "Internationalization",
+        "desc": "Cooperative relations were established with 50+ universities worldwide, international exchange student programs were launched, and international education accreditation was obtained."
+      },
+      {
+        "year": "2020",
+        "title": "Digital Transformation",
+        "desc": "Comprehensively promoted digital transformation, built a smart campus, and covered all courses with online education platforms."
+      },
+      {
+        "year": "2025",
+        "title": "Future Outlook",
+        "desc": "Building a world-class information and communication technology university, reaching the international leading level in artificial intelligence and other fields."
+      }
+    ],
+    "featuresTitle": "Our Features",
+    "featuresDesc": "Six core advantages, building excellence",
+    "missionSectionTitle": "Mission & Vision",
+    "missionSectionDesc": "Leading the information age, connecting a better future",
+    "timelineTitle": "History",
+    "timelineDesc": "Since 1990, forging ahead",
+    "contactUs": "Contact Us"
+  },
+  "academics": {
+    "title": "Academics",
+    "subtitle": "Exploring Knowledge Frontiers, Advancing Technology Innovation",
+    "overviewTitle": "Academic Overview",
+    "overviewText": "PUC has 8 schools covering communications engineering, computer science, electronic information, artificial intelligence and other disciplines. The university has a high-level faculty team, with over 80% holding doctoral degrees.",
+    "programsTitle": "Academic Programs",
+    "programs": [
+      {
+        "name": "Computer Science and Technology",
+        "degree": "B.S./M.S./PhD",
+        "desc": "Cultivating advanced professionals in computer system design and development"
+      },
+      {
+        "name": "Communications Engineering",
+        "degree": "B.S./M.S./PhD",
+        "desc": "Focusing on modern communications technology theory and application research"
+      },
+      {
+        "name": "Electronic Information Engineering",
+        "degree": "B.S./M.S.",
+        "desc": "Design, manufacturing and application of electronic information systems"
+      },
+      {
+        "name": "Network Engineering",
+        "degree": "B.S./M.S.",
+        "desc": "Network system design, implementation and security maintenance"
+      },
+      {
+        "name": "Software Engineering",
+        "degree": "B.S./M.S.",
+        "desc": "Research and application of software development processes, methods and tools"
+      },
+      {
+        "name": "Data Science and Big Data Technology",
+        "degree": "B.S./M.S./PhD",
+        "desc": "Big data processing, analysis and visualization techniques"
+      },
+      {
+        "name": "Artificial Intelligence",
+        "degree": "M.S./PhD",
+        "desc": "Machine learning, deep learning and intelligent system design"
+      },
+      {
+        "name": "Information Security",
+        "degree": "B.S./M.S.",
+        "desc": "Network security, cryptography and information protection technology"
+      }
+    ],
+    "researchTitle": "Research Centers",
+    "researchCenters": [
+      {
+        "name": "Institute of Artificial Intelligence",
+        "desc": "Focusing on machine learning, natural language processing and computer vision"
+      },
+      {
+        "name": "Communications Technology Laboratory",
+        "desc": "5G/6G communications technology R&D and standard development"
+      },
+      {
+        "name": "Cybersecurity Center",
+        "desc": "Network attack/defense, cryptography and data security research"
+      },
+      {
+        "name": "Institute of Quantum Computing",
+        "desc": "Quantum algorithms, quantum communications and quantum cryptography research"
+      }
+    ],
+    "libraryTitle": "Library Resources",
+    "libraryText": "The university library has rich print and electronic resources, providing quality academic support services for faculty and students.",
+    "libraryStats": {
+      "books": {
+        "number": "2M+",
+        "label": "Print Books"
+      },
+      "journals": {
+        "number": "50,000+",
+        "label": "Academic Journals"
+      },
+      "databases": {
+        "number": "120+",
+        "label": "Electronic Databases"
+      },
+      "seats": {
+        "number": "3,000+",
+        "label": "Reading Seats"
+      }
+    },
+    "researchAreas": [
+      {
+        "title": "Artificial Intelligence",
+        "desc": "Cutting-edge research in deep learning, NLP, computer vision, and intelligent decision-making, with breakthrough progress in medical AI and autonomous driving.",
+        "image": "/images/picsum_4.jpg",
+        "tags": [
+          "Deep Learning",
+          "NLP",
+          "Computer Vision"
+        ]
+      },
+      {
+        "title": "Biotechnology",
+        "desc": "Interdisciplinary research in bioinformatics, genetic engineering, and synthetic biology, dedicated to solving key problems in human health and sustainable development.",
+        "image": "/images/picsum_5.jpg",
+        "tags": [
+          "Genetic Engineering",
+          "Bioinformatics",
+          "Synthetic Biology"
+        ]
+      },
+      {
+        "title": "Environmental Science",
+        "desc": "Research in climate change, environmental pollution control, and renewable energy, providing scientific basis and technical support for sustainable development.",
+        "image": "/images/picsum_6.jpg",
+        "tags": [
+          "Climate Research",
+          "Pollution Control",
+          "Renewable Energy"
+        ]
+      },
+      {
+        "title": "Data Science",
+        "desc": "Big data analytics, data mining, and distributed computing, building intelligent data processing platforms for scientific research and industrial applications.",
+        "image": "/images/picsum_8.jpg",
+        "tags": [
+          "Big Data",
+          "Data Mining",
+          "Distributed Computing"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Intelligent Medical Diagnosis System",
+        "desc": "AI-based medical imaging analysis system that assists doctors in disease diagnosis, with accuracy reaching international leading level.",
+        "status": "In Progress",
+        "statusClass": "status-active",
+        "leader": "Prof. Zhang Team",
+        "duration": "2023-2025",
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22 12h-4l-3 9L9 3l-3 9H2\"/></svg>"
+      },
+      {
+        "title": "Sustainable Energy Solutions",
+        "desc": "Developing new solar cells and energy storage technologies, improving energy efficiency, providing technical support for Poland and Europe energy transition.",
+        "status": "Completed",
+        "statusClass": "status-done",
+        "leader": "Prof. Li Team",
+        "duration": "2021-2024",
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"5\"/><line x1=\"12\" y1=\"1\" x2=\"12\" y2=\"3\"/><line x1=\"12\" y1=\"21\" x2=\"12\" y2=\"23\"/><line x1=\"4.22\" y1=\"4.22\" x2=\"5.64\" y2=\"5.64\"/><line x1=\"18.36\" y1=\"18.36\" x2=\"19.78\" y2=\"19.78\"/><line x1=\"1\" y1=\"12\" x2=\"3\" y2=\"12\"/><line x1=\"21\" y1=\"12\" x2=\"23\" y2=\"12\"/><line x1=\"4.22\" y1=\"19.78\" x2=\"5.64\" y2=\"18.36\"/><line x1=\"18.36\" y1=\"5.64\" x2=\"19.78\" y2=\"4.22\"/></svg>"
+      },
+      {
+        "title": "Smart City IoT",
+        "desc": "Building city-level IoT platform, realizing intelligent management in transportation, security, environmental monitoring, piloted in Warsaw.",
+        "status": "In Progress",
+        "statusClass": "status-active",
+        "leader": "Prof. Wang Team",
+        "duration": "2022-2026",
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 16V8a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2z\"/><polyline points=\"3.27 6.96 12 12.01 20.73 6.96\"/><line x1=\"12\" y1=\"22.08\" x2=\"12\" y2=\"12\"/></svg>"
+      }
+    ],
+    "resources": [
+      {
+        "title": "Library",
+        "desc": "Collection of over 1 million volumes, providing rich electronic resources and database access services."
+      },
+      {
+        "title": "Laboratories",
+        "desc": "Over 50 specialized laboratories equipped with advanced scientific instruments and equipment."
+      },
+      {
+        "title": "Academic Journals",
+        "desc": "University publishes 3 international academic journals, covering communications, computer science and data science."
+      },
+      {
+        "title": "Academic Exchange",
+        "desc": "Regularly hosts international academic conferences and lectures, promoting academic exchange and cooperation."
+      }
+    ],
+    "sectionTitles": {
+      "researchTitle": "Research Areas",
+      "researchSubtitle": "Exploring frontier technologies, discovering the unknown",
+      "projectsTitle": "Key Projects",
+      "projectsSubtitle": "High-level research projects, leading academic frontiers",
+      "resourcesTitle": "Academic Resources",
+      "resourcesSubtitle": "Rich academic resources, supporting teaching and research"
+    }
+  },
+  "admissions": {
+    "title": "Admissions",
+    "subtitle": "Join us and embark on an excellent academic journey",
+    "overviewTitle": "Admissions Overview",
+    "overviewText": "PUC recruits outstanding students from around the world, offering degree education at undergraduate, master and doctoral levels. We welcome outstanding students with innovative spirit and global vision to apply.",
+    "undergraduateTitle": "Undergraduate Admissions",
+    "undergraduateText": "Undergraduate programs cover communications, computer science, electronic information and other major fields, with a four-year system. Applicants need to have a high school diploma and pass our entrance examination or provide equivalent achievement proof.",
+    "graduateTitle": "Graduate Admissions",
+    "graduateText": "Master programs last 2-3 years, doctoral programs last 3-5 years. Applicants need to have a bachelor's or master's degree in a related field and pass our entrance examination.",
+    "internationalTitle": "International Students",
+    "internationalText": "We warmly welcome international students to apply, offering various scholarships and financial aid programs. International students need to provide language proficiency proof (English or Polish).",
+    "applyTitle": "Application Process",
+    "applySteps": [
+      "Online Application",
+      "Submit Documents",
+      "Entrance Exam/Interview",
+      "Admission Offer",
+      "Confirm Enrollment"
+    ],
+    "deadlineTitle": "Important Dates",
+    "deadlines": [
+      {
+        "date": "Applications Accepted Year-Round",
+        "event": "Undergraduate Application"
+      },
+      {
+        "date": "Applications Accepted Year-Round",
+        "event": "Master Application"
+      },
+      {
+        "date": "Applications Accepted Year-Round",
+        "event": "PhD Application"
+      }
+    ],
+    "contactTitle": "Admissions Contact",
+    "contactText": "If you have any questions about admissions, please contact our admissions office through the following methods:",
+    "contactPhone": "Phone",
+    "contactEmail": "Email",
+    "contactOffice": "Admissions Office",
+    "plans": [
+      {
+        "title": "Undergraduate Admissions",
+        "degree": "Bachelor Programs",
+        "deadline": "Accepting applications year-round",
+        "duration": "4 years",
+        "featured": false,
+        "features": [
+          "50+ undergraduate majors available",
+          "Bilingual teaching (Chinese/English)",
+          "International exchange opportunities",
+          "Wide scholarship coverage"
+        ]
+      },
+      {
+        "title": "Master Admissions",
+        "degree": "Master Programs",
+        "deadline": "Accepting applications year-round",
+        "duration": "2 years",
+        "featured": true,
+        "features": [
+          "30+ master degree directions",
+          "Mentor-based personalized training",
+          "Participate in frontier research projects",
+          "International joint training opportunities"
+        ]
+      },
+      {
+        "title": "PhD Admissions",
+        "degree": "PhD Programs",
+        "deadline": "Accepting applications year-round",
+        "duration": "3-5 years",
+        "featured": false,
+        "features": [
+          "20+ PhD research directions",
+          "Full scholarship support",
+          "International conference funding",
+          "High-level paper publication guidance"
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "title": "Language Requirements",
+        "desc": "Non-native English speakers need to provide English proficiency proof",
+        "items": [
+          "IELTS 6.5 or above",
+          "TOEFL 90 or above",
+          "Or equivalent English proficiency proof"
+        ]
+      },
+      {
+        "title": "Academic Requirements",
+        "desc": "Possess good academic background and learning ability",
+        "items": [
+          "Undergraduate: High school diploma or equivalent",
+          "Master: Bachelor degree in related field",
+          "PhD: Master degree in related field",
+          "GPA 3.0 or above preferred"
+        ]
+      },
+      {
+        "title": "Application Materials",
+        "desc": "Preparing complete application materials is key to successful admission",
+        "items": [
+          "Online application form",
+          "Degree certificate and transcript",
+          "Personal Statement (PS)",
+          "2-3 recommendation letters",
+          "Valid passport copy"
+        ]
+      }
+    ],
+    "processSteps": [
+      {
+        "title": "Online Application",
+        "desc": "Fill out online application form and upload required materials"
+      },
+      {
+        "title": "Document Review",
+        "desc": "Admissions committee reviews application materials"
+      },
+      {
+        "title": "Interview Assessment",
+        "desc": "Some programs require online interview"
+      },
+      {
+        "title": "Admission Notice",
+        "desc": "Issue admission letter and complete enrollment procedures"
+      }
+    ],
+    "sectionTitles": {
+      "plansTitle": "Admission Plans",
+      "plansSubtitle": "Undergraduate, Master, PhD - Now Recruiting",
+      "requirementsTitle": "Admission Requirements",
+      "requirementsSubtitle": "Understand application conditions, prepare well",
+      "processTitle": "Application Process",
+      "processSubtitle": "Complete application in 4 steps, easy enrollment",
+      "ctaTitle": "Ready to start your university journey?",
+      "ctaDesc": "Apply now, join Polish University of Communications, and connect the future with us"
+    },
+    "featuredBadge": "Recommended",
+    "deadlinePrefix": "Deadline: ",
+    "durationPrefix": "Duration: ",
+    "applyNow": "Apply Now",
+    "requirementsTitle": "Admission Requirements",
+    "requirementsSubtitle": "Understand the application conditions",
+    "applyStepDescs": [
+      "Fill out online application form and upload required documents",
+      "Admissions committee reviews application materials",
+      "Some programs require online interview",
+      "Admission offer sent, enrollment procedures"
+    ],
+    "processTitle": "Application Process",
+    "processSubtitle": "Complete application in 4 steps",
+    "ctaTitle": "Ready to start your university journey?",
+    "ctaText": "Apply now, join Polish University of Communications, and connect the future with us",
+    "checkAdmission": "Check Admission Letter",
+    "contactForDetails": "Contact for Details"
+  },
+  "campus": {
+    "title": "Campus Life",
+    "subtitle": "Colorful campus culture, warm learning and living environment",
+    "overviewTitle": "Campus Overview",
+    "overviewText": "PUC has modern campus facilities, providing students with excellent learning and living environments. The campus has libraries, laboratories, sports venues, student dormitories and other facilities.",
+    "dormTitle": "Student Dormitories",
+    "dormText": "The university provides various types of student dormitories, with rooms equipped with basic furniture and network interfaces. On-campus dormitories are within a 10-minute walk from teaching buildings.",
+    "foodTitle": "Dining Services",
+    "foodText": "There are multiple student dining halls on campus, offering Chinese, Western, Halal and other options. The dining environment is comfortable and reasonably priced.",
+    "sportsTitle": "Sports & Athletics",
+    "sportsText": "The university has standard track and field grounds, indoor gymnasiums, swimming pools, tennis courts and other sports facilities, regularly hosting sports events.",
+    "clubsTitle": "Student Clubs",
+    "clubsText": "The university has over 100 student clubs, covering academics, arts, sports, public welfare and other fields, enriching students' extracurricular life.",
+    "galleryTitle": "Campus Gallery",
+    "galleryDesc": "Explore our beautiful campus",
+    "facilities": [
+      {
+        "title": "Modern Library",
+        "desc": "Collection of over 1 million volumes, providing quiet study spaces and rich electronic resources, 24-hour study area available."
+      },
+      {
+        "title": "Sports Facilities",
+        "desc": "Standard track and field, swimming pool, basketball gym, badminton gym, etc. Fully equipped to meet diverse sports needs."
+      },
+      {
+        "title": "Dining Services",
+        "desc": "Multiple cafeterias and coffee shops, providing Chinese and Western dining options, meeting different taste needs, food safety guaranteed."
+      },
+      {
+        "title": "Student Dormitory",
+        "desc": "Comfortable student apartments, equipped with AC, private bathroom, high-speed internet, providing safe and warm living environment."
+      }
+    ],
+    "activities": [
+      {
+        "title": "Campus Culture Festival",
+        "tag": "Cultural Activity",
+        "date": "June 2024",
+        "desc": "The 10th Campus Culture Festival with the theme \"Innovation · Integration · Future\", covering literary performances, tech exhibitions, creative markets and other rich activities."
+      },
+      {
+        "title": "Sports Competition",
+        "tag": "Sports Activity",
+        "date": "May 2024",
+        "desc": "Annual inter-school sports meeting, covering track and field, basketball, football, swimming and other events, showcasing students athletic spirit."
+      },
+      {
+        "title": "Academic Lectures",
+        "tag": "Academic Activity",
+        "date": "April 2024",
+        "desc": "Inviting world-renowned scholars to give academic lectures, covering frontier technology, humanities and social sciences."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Student Union",
+        "desc": "Represents student interests, organizes various campus activities, serves as a bridge between students and the university, cultivating leadership and organizational abilities.",
+        "members": "200+"
+      },
+      {
+        "title": "Academic Clubs",
+        "desc": "Academic clubs covering computer science, communications, AI and other fields, regularly holding tech sharing and project practice activities.",
+        "members": "500+"
+      },
+      {
+        "title": "Interest Clubs",
+        "desc": "Music, dance, photography, calligraphy, esports and other interest clubs, meeting students diverse interest development needs.",
+        "members": "800+"
+      }
+    ],
+    "sectionTitles": {
+      "facilitiesTitle": "Campus Facilities",
+      "facilitiesSubtitle": "Comprehensive facilities, supporting learning and life",
+      "activitiesTitle": "Student Activities",
+      "activitiesSubtitle": "Colorful campus culture, inspiring youth vitality",
+      "orgsTitle": "Student Organizations",
+      "orgsSubtitle": "Join clubs, expand horizons, enhance abilities"
+    },
+    "membersSuffix": " members"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "联系我们",
+    "sectionTitle": "Contact Information",
+    "sectionDesc": "Get in touch with us anytime",
+    "formTitle": "Send Message",
+    "formDesc": "Fill out the form below and we will get back to you soon",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "type": "Inquiry Type",
+    "message": "Message",
+    "required": "*",
+    "namePlaceholder": "Enter your name",
+    "emailPlaceholder": "Enter your email",
+    "phonePlaceholder": "Enter your phone",
+    "typePlaceholder": "Please select",
+    "typeOptions": {
+      "admission": "Admission Inquiry",
+      "academic": "Academic Inquiry",
+      "general": "General Inquiry",
+      "other": "Other"
+    },
+    "messagePlaceholder": "Enter your message",
+    "submit": "Submit Message",
+    "submitting": "Submitting...",
+    "success": "Message submitted successfully! We will contact you soon.",
+    "error": {
+      "name": "Please enter your name",
+      "email": "Please enter your email",
+      "emailInvalid": "Invalid email format",
+      "message": "Please enter your message"
+    },
+    "contactItems": [
+      {
+        "title": "Address",
+        "value": "ul. Uniwersytecka 123, Warszawa, Poland",
+        "note": "Warsaw Campus"
+      },
+      {
+        "title": "Phone",
+        "value": "+48 22 107 98 99",
+        "note": "Admission Hotline: Mon-Fri 9:00-17:00"
+      },
+      {
+        "title": "Email",
+        "value": "uniomo{'@'}10010.edu.pl",
+        "note": "We will reply within 24 hours"
+      },
+      {
+        "title": "Office Hours",
+        "value": "Mon-Fri 8:30 - 17:00",
+        "note": "Except holidays"
+      }
+    ],
+    "mapTitle": "Campus Location",
+    "mapDesc": "ul. Uniwersytecka 123, Warszawa, Polska",
+    "mapInfo": {
+      "hours": "Mon-Fri 8:30 - 17:00",
+      "security": "24-hour campus security"
+    }
+  },
+  "login": {
+    "title": "Admin Login",
+    "username": "Username",
+    "password": "Password",
+    "usernamePlaceholder": "Enter username",
+    "passwordPlaceholder": "Enter password",
+    "rememberMe": "Remember me",
+    "loginBtn": "Login",
+    "error": "Incorrect username or password, please retry",
+    "brandTitle": "Unicom University",
+    "brandTitleEn": "Unicom University of PL",
+    "brandMotto": "Excellence in Education",
+    "brandMottoEn": "Connecting the Future",
+    "brandDesc": "Polish University of Communications\nCampus Management System\nPlease login with administrator account to manage admission letters",
+    "mobileWarning": "For best experience, please use desktop to login",
+    "loginTitle": "School Management System",
+    "loginSubtitle": "Admin Login",
+    "loggingIn": "Logging in...",
+    "backHome": "Back to Home",
+    "queryLetter": "Admission Letter Query",
+    "queryDiploma": "Diploma Query",
+    "validation": {
+      "username": "Please enter username",
+      "password": "Please enter password"
+    },
+    "loginErrorUser": "Please enter username",
+    "loginErrorPass": "Please enter password",
+    "loginErrorWrong": "Wrong username or password",
+    "loginDesc": "Please login with admin account to manage admission letters"
+  },
+  "dashboard": {
+    "title": "Campus Management System",
+    "welcome": "Please select the management function you need",
+    "stats": {
+      "letters": {
+        "title": "Admission Letters",
+        "desc": "Issued"
+      },
+      "diplomas": {
+        "title": "Diplomas",
+        "desc": "Issued"
+      },
+      "students": {
+        "title": "Total Students",
+        "desc": "Enrolled"
+      }
+    },
+    "quickActions": "Quick Actions",
+    "issueLetter": "Issue Admission Letter",
+    "issueDiploma": "Issue Diploma",
+    "queryLetter": "Admission Letter Query",
+    "queryDiploma": "Diploma Query",
+    "recentLetters": "Recently Issued Admission Letters",
+    "recentDiplomas": "Recently Issued Diplomas",
+    "viewBtn": "View",
+    "downloadBtn": "Download",
+    "deleteBtn": "Delete",
+    "logout": "Logout",
+    "noData": "No data yet",
+    "admissionLetter": "Issue Admission Letter",
+    "admissionLetterDesc": "Fill in student information, generate formal admission letter, support download and online verification.",
+    "diploma": "Issue Diploma",
+    "diplomaDesc": "Issue formal graduation diplomas, support download and online verification.",
+    "publicQuery": "Public Query Portal"
+  },
+  "select": {
+    "title": "Admission Letter Query",
+    "subtitle": "Please enter your name and ID/Passport number to query",
+    "fullName": "Full Name",
+    "idNumber": "ID/Passport Number",
+    "fullNamePlaceholder": "Please enter your name",
+    "idNumberPlaceholder": "Please enter ID or passport number",
+    "searchBtn": "Search",
+    "resetBtn": "Reset",
+    "noResult": "No admission letter found. Please verify your information and try again.",
+    "resultTitle": "Admission Letter",
+    "downloadBtn": "Download",
+    "previewBtn": "Preview",
+    "heroTitle": "Admission Letter Query",
+    "heroSubtitle": "Admission Letter Verification System",
+    "cardTitle": "Online Query",
+    "cardDesc": "Please enter your personal information to query admission letter",
+    "nameLabel": "Name",
+    "idLabel": "ID Number / Passport Number",
+    "namePlaceholder": "Enter your name",
+    "idPlaceholder": "Enter your ID number",
+    "searching": "Searching...",
+    "errorName": "Please enter full name (at least 2 characters)",
+    "errorId": "Please enter complete ID/passport number (at least 6 characters)",
+    "errorNotFound": "Admission letter not found, please check name and ID number",
+    "errorServer": "Query service temporarily unavailable, please retry later or contact admission office",
+    "resultBadge": "Query Successful",
+    "infoTitle": "Query Instructions",
+    "infoText": "Please enter the same name and ID number as on the admission letter. Name supports Chinese and English, ID supports ID card and passport.",
+    "contactTitle": "Contact",
+    "contactText": "If you have query problems, please contact admission office: uniomo{'@'}10010.edu.pl or call +48 22 107 98 99.",
+    "securityTitle": "Security Notice",
+    "securityText": "This query system is only for verifying admission letter authenticity. Please keep personal information safe and do not disclose ID number to others.",
+    "backHome": "Back to Home"
+  },
+  "diplomaSelect": {
+    "title": "Diploma Query",
+    "subtitle": "Please enter your name and ID/Passport number to query",
+    "fullName": "Full Name",
+    "idNumber": "ID/Passport Number",
+    "fullNamePlaceholder": "Please enter your name",
+    "idNumberPlaceholder": "Please enter ID or passport number",
+    "searchBtn": "Search",
+    "resetBtn": "Reset",
+    "noResult": "No diploma found. Please verify your information and try again.",
+    "resultTitle": "Diploma",
+    "downloadBtn": "Download",
+    "previewBtn": "Preview",
+    "heroTitle": "Diploma Query",
+    "heroSubtitle": "Diploma Verification System",
+    "cardTitle": "Online Query",
+    "cardDesc": "Please enter your personal information to query diploma",
+    "nameLabel": "Name",
+    "idLabel": "ID Number / Passport Number",
+    "namePlaceholder": "Enter your name",
+    "idPlaceholder": "Enter your ID number",
+    "searching": "Searching...",
+    "errorName": "Please enter full name (at least 2 characters)",
+    "errorId": "Please enter complete ID/passport number (at least 6 characters)",
+    "errorNotFound": "Diploma not found, please check name and ID number",
+    "errorServer": "Query service temporarily unavailable, please retry later or contact admission office",
+    "resultBadge": "Query Successful",
+    "infoTitle": "Query Instructions",
+    "infoText": "Please enter the same name and ID number as on the diploma. Name supports Chinese and English, ID supports ID card and passport.",
+    "contactTitle": "Contact",
+    "contactText": "If you have query problems, please contact academic affairs office: uniomo{'@'}10010.edu.pl or call +48 22 107 98 99.",
+    "securityTitle": "Security Notice",
+    "securityText": "This query system is only for verifying diploma authenticity. Please keep personal information safe and do not disclose ID number to others.",
+    "backHome": "Back to Home"
+  },
+  "admissionLetter": {
+    "title": "Issue Admission Letter",
+    "subtitle": "Fill in student information to generate admission letter",
+    "form": {
+      "name": "Full Name",
+      "englishName": "English Name",
+      "idNumber": "ID/Passport Number",
+      "specialty": "Major",
+      "degree": "Degree Type",
+      "year": "Enrollment Year",
+      "semester": "Enrollment Semester",
+      "issueDate": "Issue Date",
+      "namePlaceholder": "Please enter student name",
+      "englishNamePlaceholder": "Please enter English name",
+      "idNumberPlaceholder": "Please enter ID or passport number",
+      "specialtyPlaceholder": "Please select major",
+      "degreePlaceholder": "Please select degree type",
+      "yearPlaceholder": "Please select enrollment year",
+      "semesterPlaceholder": "Please select enrollment semester",
+      "issueDatePlaceholder": "Please select issue date"
+    },
+    "previewBtn": "Preview Letter",
+    "downloadBtn": "Download Letter Image",
+    "downloading": "Generating...",
+    "resetBtn": "Reset Form",
+    "notification": {
+      "fillForm": "Please complete the form",
+      "generated": "Admission letter generated",
+      "downloaded": "Image downloaded and saved to server",
+      "downloadedNoServer": "Image downloaded (server save failed, query may be unavailable)",
+      "noDoc": "Letter element not found, please regenerate preview",
+      "error": "Download failed"
+    }
+  },
+  "diploma": {
+    "title": "Issue Diploma",
+    "subtitle": "Fill in student information to generate diploma",
+    "form": {
+      "name": "Full Name",
+      "englishName": "English Name",
+      "idNumber": "ID/Passport Number",
+      "specialty": "Major",
+      "degree": "Degree Type",
+      "enrollmentYear": "Enrollment Year",
+      "graduationDate": "Graduation Date",
+      "studyDuration": "Study Duration",
+      "namePlaceholder": "Please enter student name",
+      "englishNamePlaceholder": "Please enter English name",
+      "idNumberPlaceholder": "Please enter ID or passport number",
+      "specialtyPlaceholder": "Please select major",
+      "degreePlaceholder": "Please select degree type",
+      "enrollmentYearPlaceholder": "Please select enrollment year",
+      "graduationDatePlaceholder": "Please select graduation date",
+      "studyDurationPlaceholder": "Please enter study duration"
+    },
+    "previewBtn": "Preview Diploma",
+    "downloadBtn": "Download Diploma Image",
+    "downloading": "Generating...",
+    "resetBtn": "Reset Form",
+    "notification": {
+      "fillForm": "Please complete the form",
+      "generated": "Diploma generated",
+      "downloaded": "Image downloaded and saved to server",
+      "downloadedNoServer": "Image downloaded (server save failed, query may be unavailable)",
+      "noDoc": "Diploma element not found, please regenerate preview",
+      "error": "Download failed"
+    },
+    "queryTitle": "Diploma Query",
+    "querySubtitle": "Diploma Verification System",
+    "onlineQuery": "Online Query",
+    "queryDesc": "Please enter your personal information to query admission letter",
+    "name": "Name",
+    "idNumber": "ID Number / Passport Number",
+    "namePlaceholder": "Enter name",
+    "idPlaceholder": "Enter ID number",
+    "queryBtn": "Query",
+    "querying": "Querying...",
+    "querySuccess": "Query Successful",
+    "download": "Download",
+    "instructions": "Instructions",
+    "instructionsText": "Please enter the name and ID number consistent with the admission letter. Name supports Chinese and English, ID number supports ID card and passport.",
+    "contact": "Contact",
+    "contactText": "If you have any query problems, please contact the Admissions Office: uniomo{'@'}10010.edu.pl or call +48 22 107 98 99.",
+    "security": "Security Notice",
+    "securityText": "This query system is only for verifying the authenticity of admission letters. Please keep your personal information safe and do not disclose your ID number to others."
+  },
+  "footer": {
+    "desc": "Polish University of Communications is committed to cultivating outstanding talents with international vision and innovative spirit, connecting academia with the future, creating infinite possibilities.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contactUs": "Contact Us",
+    "library": "Library System",
+    "academic": "Academic Management",
+    "onlineLearning": "Online Learning",
+    "calendar": "Academic Calendar",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "sitemap": "Site Map",
+    "copyright": " Polish University of Communications. All Rights Reserved."
+  },
+  "admissionLetterDoc": {
+    "mainTitle": "ADMISSION LETTER",
+    "mainTitleEn": "ADMISSION LETTER",
+    "numberPrefix": "No.",
+    "infoLabels": {
+      "name": "Name",
+      "englishName": "English Name",
+      "idNumber": "ID/Passport No."
+    },
+    "body": "After review, you are hereby admitted as a <strong>{degree}</strong> student at Polish University of Communications, majoring in <strong>{specialty}</strong>, enrolling in <strong>{semester}</strong> semester of <strong>{year}</strong>. Student ID: <strong>{number}</strong>. Please report to Polish University of Communications with this letter, your ID and related materials at the time specified in this letter. For specific reporting time and location, please pay attention to the relevant notices published on the university's official website (www.10010.edu.pl). Congratulations on becoming a member of Polish University of Communications. May you achieve excellent results in your future studies!",
+    "signatureRoles": {
+      "director": "Director of Admissions",
+      "president": "President"
+    },
+    "signatureNames": {
+      "director": "GUIXIANGZHONG",
+      "president": "WANGZHENG"
+    },
+    "qrLabel": "Scan to Verify",
+    "noticeTitle": "Important Notice / 重要提醒",
+    "notices": [
+      "This admission letter is an official document of Polish University of Communications. Please keep it properly.",
+      "Please bring this letter and original ID documents for registration.",
+      "This admission letter is an official document of Polish University of Communications.",
+      "Please bring this letter and your ID documents for registration."
+    ],
+    "footerText": "Admissions Office, Polish University of Communications",
+    "uniName": "Unicom University",
+    "uniNameEn": "Unicom University of PL",
+    "website": "www.10010.edu.pl"
+  },
+  "diplomaDoc": {
+    "mainTitle": "DIPLOMA",
+    "mainTitleEn": "GRADUATION DIPLOMA",
+    "numberPrefix": "Diploma No.",
+    "infoLabels": {
+      "name": "Name",
+      "englishName": "English Name",
+      "idNumber": "ID/Passport No."
+    },
+    "body": "Student <strong>{name}</strong> ({englishName}), gender {gender}, enrolled at Polish University of Communications in <strong>{year}</strong>, majoring in <strong>{specialty}</strong>. Having completed all courses required for the <strong>{degree}</strong> degree with qualified grades, the student is hereby approved for graduation. Study duration: <strong>{duration}</strong>. Graduation date: <strong>{date}</strong>. Diploma No.: <strong>{number}</strong>. This diploma is officially issued by Polish University of Communications and its authenticity can be verified by scanning the QR code or visiting the university's official website (www.10010.edu.pl).",
+    "signatureRoles": {
+      "dean": "Dean of Academic Affairs",
+      "president": "President"
+    },
+    "signatureNames": {
+      "dean": "GUIXIANGZHONG",
+      "president": "WANGZHENG"
+    },
+    "qrLabel": "Scan to Verify",
+    "noticeTitle": "Important Notice / 重要说明",
+    "notices": [
+      "This diploma is an official document of Polish University of Communications. Please keep it properly.",
+      "The authenticity of this diploma can be verified by scanning the QR code below or visiting the official website.",
+      "This diploma is an official document of Polish University of Communications.",
+      "Any alteration or forgery of this document is subject to legal prosecution."
+    ],
+    "footerText": "Polish University of Communications",
+    "uniName": "Unicom University",
+    "uniNameEn": "Unicom University of PL",
+    "website": "www.10010.edu.pl"
+  },
+  "common": {
+    "backToTop": "Back to Top",
+    "backToHome": "Back to Home"
+  },
+  "query": {
+    "queryTitle": "Admission Letter Query",
+    "querySubtitle": "Admission Letter Verification System",
+    "onlineQuery": "Online Query",
+    "queryDesc": "Please enter your personal information to query admission letter",
+    "name": "Name",
+    "idNumber": "ID Number / Passport Number",
+    "namePlaceholder": "Enter name",
+    "idPlaceholder": "Enter ID number",
+    "queryBtn": "Query",
+    "querying": "Querying...",
+    "querySuccess": "Query Successful",
+    "diplomaTitle": "Diploma Certificate",
+    "download": "Download",
+    "instructions": "Instructions",
+    "instructionsText": "Please enter the name and ID number consistent with the admission letter. Name supports Chinese and English, ID number supports ID card and passport.",
+    "contact": "Contact",
+    "contactText": "If you have any query problems, please contact the Admissions Office: uniomo{'@'}10010.edu.pl or call +48 22 107 98 99.",
+    "security": "Security Notice",
+    "securityText": "This query system is only for verifying the authenticity of admission letters. Please keep your personal information safe and do not disclose your ID number to others."
+  }
+}

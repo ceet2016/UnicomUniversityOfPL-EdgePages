@@ -1,0 +1,19 @@
+{
+  "version": 3,
+  "routes": [
+    { "handle": "filesystem" }
+  ],
+  "headers": [
+    {
+      "source": "/*",
+      "headers": [
+        { "key": "Server", "value": "ChinaUnicomWAF" }
+      ]
+    }
+  ],
+  "cloudFunctions": {
+    "nodejs": {
+      "includeFiles": ["dist/index.html"]
+    }
+  }
+}

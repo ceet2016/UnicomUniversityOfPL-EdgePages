@@ -1,0 +1,1029 @@
+{
+  "siteName": "ポーランド連通大学",
+  "siteNameEn": "Polish University of Communications",
+  "phone": "+48 22 107 98 99",
+  "email": "uniomo{'@'}10010.edu.pl",
+  "address": "ポーランド ワルシャ市 大学路123号",
+  "officeHours": "月曜日〜金曜日 8:30 - 17:00",
+  "nav": {
+    "home": "ホーム",
+    "about": "大学概要",
+    "academics": "学术研究",
+    "admissions": "入学案内",
+    "campus": "キャンパスライフ",
+    "contact": "お問い合わせ"
+  },
+  "header": {
+    "queryLetter": "合格通知書照会",
+    "adminLogin": "管理システムログイン"
+  },
+  "home": {
+    "hero": [
+      {
+        "title": "ポーランド連通大学へようこそ",
+        "subtitle": "未来のリーダーを育成し、無限の可能性を創造"
+      },
+      {
+        "title": "卓越した学術環境",
+        "subtitle": "世界クラスの教育施設と研究リソース"
+      },
+      {
+        "title": "国際化キャンパス",
+        "subtitle": "世界のトップ大学と連携関係を構築"
+      }
+    ],
+    "heroApply": "今すぐ申し込む",
+    "heroLearnMore": "詳細を見る",
+    "quickLinks": "クイックアクセス",
+    "quickLinksDesc": "ワンストップサービス、便利で効率的",
+    "links": {
+      "undergraduate": {
+        "title": "学部募集",
+        "desc": "学部専攻紹介、募集計画と合格要件"
+      },
+      "graduate": {
+        "title": "大学院プログラム",
+        "desc": "修士・博士号プログラム募集情報"
+      },
+      "calendar": {
+        "title": "学術カレンダー",
+        "desc": "学期スケジュール、試験日時と休暇スケジュール"
+      },
+      "news": {
+        "title": "キャンパスニュース",
+        "desc": "大学の最新動向と重要な通知を理解"
+      },
+      "queryLetter": {
+        "title": "合格通知書照会",
+        "desc": "オンラインで合格通知書を照会・ダウンロード"
+      }
+    },
+    "newsTitle": "最新ニュース",
+    "newsDesc": "大学の最新動向をフォロー",
+    "readMore": "続きを読む",
+    "statsTitle": "ポーランド連通大学の数字",
+    "statsDesc": "数十年にわたり、私たちは卓越を追求し続けています",
+    "stats": [
+      {
+        "value": 12000,
+        "suffix": "+",
+        "label": "在学生"
+      },
+      {
+        "value": 800,
+        "suffix": "+",
+        "label": "教職員"
+      },
+      {
+        "value": 150,
+        "suffix": "+",
+        "label": "専攻プログラム"
+      },
+      {
+        "value": 60,
+        "suffix": "+",
+        "label": "出身国"
+      }
+    ],
+    "newsItems": [
+      {
+        "title": "当校の研究チームがAIで重大なブレイクスルーを達成",
+        "desc": "最近、当校のコンピュータサイエンス研究チームが国際的なトップジャーナルに論文を発表し、新しいディープラーニングアーキテクチャを提案しました...",
+        "date": "2024-06-15",
+        "category": "研究"
+      },
+      {
+        "title": "2024年国際学術会議が成功裏に開催",
+        "desc": "30以上の国から200名以上の学者が当校に集い、通信工学の最先端問題について議論しました...",
+        "date": "2024-06-10",
+        "category": "学術イベント"
+      },
+      {
+        "title": "第10回キャンパス文化祭が盛大に開幕",
+        "desc": "「イノベーション・融合・未来」をテーマとする第10回キャンパス文化祭が6月1日に正式に開幕し、2週間の文化の祭典が始まりました...",
+        "date": "2024-06-01",
+        "category": "キャンパスライフ"
+      }
+    ]
+  },
+  "about": {
+    "title": "大学概要",
+    "subtitle": "私たちの歴史、ビジョンとミッションを理解する",
+    "introText1": "ポーランド連通大学（Polish University of Communications）は1990年に設立され、ポーランドの首都ワルシャに位置しています。これは情報通信技術を特色とし、工学、理学、管理学、文学の多分野が協調発展する総合大学です。",
+    "introText2": "設立30余年にわたり、大学は常に「イノベーション、卓越、開放、責任」の办学理念を堅持し、国際的視野、イノベーション精神と実践能力を備えた高品質の人材を育成することに尽力しています。大学は完全な教学施設と雄厚的な教員力量を有し、世界の100以上の有名大学と協力関係を築き、学生に広範な国際交流プラットフォームを提供します。",
+    "introText3": "学校は人工知能、通信工学、データサイエンスなどの先端分野で豊かな研究成果を上げており、複数の研究成果が国際的な先導レベルに達し、ポーランド乃至ヨーロッパの情報産業発展に重要な貢献をしています。",
+    "historyTitle": "大学の歴史",
+    "historyText1": "ポーランド連通大学は1990年に設立され、ポーランド初の通信と情報技術分野に特化した高等教育機関です。設立30余年にわたり、大学は常に「学術の自由、革新のリード」の办学理念を堅持し、優れた工学・管理人材を多数育成しました。",
+    "historyText2": "大学はワルシャに本部キャンパス、クラクフとグダニスクに二つの分キャンパスを有し、総建築面積は45万平方メートルに達します。図書館蔵書量は200万冊を超え、電子リソースデータベースは120余りに達します。",
+    "missionTitle": "ミッションとビジョン",
+    "missionText": "国際的視野と革新精神を備えた優れた人材の育成に尽力し、科学技術の進歩を推進し、社会発展に奉仕します。私たちの目標は、世界のトップ研究型大学となることであり、通信、コンピューター、電子情報分野で世界の科学技術発展方向をリードすることです。",
+    "valuesTitle": "コアバリュー",
+    "values": [
+      "学術卓越",
+      "革新リード",
+      "国際視野",
+      "社会的責任"
+    ],
+    "statsTitle": "私たちの成果",
+    "stats": {
+      "ranking": {
+        "number": "Top 50",
+        "label": "欧州大学ランキング"
+      },
+      "awards": {
+        "number": "200+",
+        "label": "科研賞"
+      },
+      "patents": {
+        "number": "500+",
+        "label": "発明特許"
+      },
+      "partners": {
+        "number": "120+",
+        "label": "協力大学"
+      }
+    },
+    "features": [
+      {
+        "title": "卓越した教育",
+        "desc": "一流の教育チームと完備した教育体系。理論と実践の結合に焦点を当て、学生の革新と実践能力を培養。"
+      },
+      {
+        "title": "前沿研究",
+        "desc": "複数の研究中心がAI、通信、データサイエンスなどの前沿研究に専念。国際的に先駆的な成果を持つ。"
+      },
+      {
+        "title": "国際的視野",
+        "desc": "世界100余りの大学と協力関係を確立。学生に広範な国際交換プラットフォームを提供。"
+      },
+      {
+        "title": "美しいキャンパス",
+        "desc": "庭園式キャンパスと先駆的な施設。学生に理想的な学習と生活環境を提供。"
+      },
+      {
+        "title": "個性化発展",
+        "desc": "豊富な選択科目とサークル活動。学生の個性的な興味と特長の発展をサポート。"
+      },
+      {
+        "title": "就職支援",
+        "desc": "専門的なキャリア指導センターと校友ネットワーク。包括的な就職支援とサービスを提供。"
+      }
+    ],
+    "missions": [
+      {
+        "title": "ミッション",
+        "desc": "卓越した教育と研究を通じて、イノベーション精神と国際的視野を備えた高品質の人材を育成し、情報通信技術の発展を推進し、社会進歩に奉仕します。"
+      },
+      {
+        "title": "ビジョン",
+        "desc": "欧州のリーダー、世界の有名な情報通信技術大学になることで、教育と研究分野で深远な影响を生み出し、学界と未来を繋ぎます。"
+      },
+      {
+        "title": "価値観",
+        "desc": "イノベーション、卓越、開放、責任。私たちは学術卓越を追求し、イノベーション思考を奨励し、開放と包摂を維持し、社会的責任を負います。"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "1990",
+        "title": "設立",
+        "desc": "ポーランド連通大学がワルシャ市で正式に設立され、最初は3学部、初回募集200人です。"
+      },
+      {
+        "year": "2000",
+        "title": "急速な発展",
+        "desc": "複数の学部と専攻が新增され、在学学生が5000人を突破し、最初の国際協力プロジェクトが設立されました。"
+      },
+      {
+        "year": "2010",
+        "title": "国際化",
+        "desc": "世界の50以上の大学と協力関係が築かれ、国際交換学生プログラムが開始され、国際教育認証が取得されました。"
+      },
+      {
+        "year": "2020",
+        "title": "デジタル変革",
+        "desc": "デジタル変革を全面的に推進し、スマートキャンパスを建設し、オンライン教育プラットフォームがすべてのコースをカバーしました。"
+      },
+      {
+        "year": "2025",
+        "title": "未来の展望",
+        "desc": "世界一流の情報通信技術大学を建設し、人工知能などの分野で国際最先端レベルに達します。"
+      }
+    ],
+    "featuresTitle": "学校の特色",
+    "featuresDesc": "六大核心優位、卓越の品質を築く",
+    "missionSectionTitle": "使命とビジョン",
+    "missionSectionDesc": "情報時代をリードし、素晴らしい未来を繋ぐ",
+    "timelineTitle": "沿革",
+    "timelineDesc": "1990年から現在まで、着実に前進",
+    "contactUs": "お問い合わせ"
+  },
+  "academics": {
+    "title": "学術研究",
+    "subtitle": "知識の最前線を探索し、科学技術革新を推進",
+    "overviewTitle": "学術概要",
+    "overviewText": "ポーランド連通大学は8つの学院を設置し、通信工学、コンピューター科学、電子情報、人工知能などの複数学科分野をカバーしています。大学は高水準の教員チームを擁し、うち80%以上が博士号を有しています。",
+    "programsTitle": "専攻設置",
+    "programs": [
+      {
+        "name": "コンピューター科学と技術",
+        "degree": "学士/修士/博士",
+        "desc": "コンピューター・システム設計と開発の上級専門人材を育成"
+      },
+      {
+        "name": "通信工学",
+        "degree": "学士/修士/博士",
+        "desc": "現代通信技術理論と応用研究に焦点"
+      },
+      {
+        "name": "電子情報工学",
+        "degree": "学士/修士",
+        "desc": "電子情報システムの設計、製造と応用"
+      },
+      {
+        "name": "ネットワーク工学",
+        "degree": "学士/修士",
+        "desc": "ネットワーク・システム設計、施行と安全維持"
+      },
+      {
+        "name": "ソフトウェア工学",
+        "degree": "学士/修士",
+        "desc": "ソフトウェア開発プロセス、方法とツールの研究と応用"
+      },
+      {
+        "name": "データ科学とビッグデータ技術",
+        "degree": "学士/修士/博士",
+        "desc": "ビッグデータ処理、分析と可視化技術"
+      },
+      {
+        "name": "人工知能",
+        "degree": "修士/博士",
+        "desc": "機械学習、深層学習と知的システム設計"
+      },
+      {
+        "name": "情報安全",
+        "degree": "学士/修士",
+        "desc": "ネットワーク安全、暗号学と情報保護技術"
+      }
+    ],
+    "researchTitle": "研究センター",
+    "researchCenters": [
+      {
+        "name": "人工知能研究院",
+        "desc": "機械学習、自然言語処理とコンピューター・ビジョンなどの最前線分野に焦点"
+      },
+      {
+        "name": "通信技術実験室",
+        "desc": "5G/6G通信技術研究開発と標準制定"
+      },
+      {
+        "name": "ネットワーク安全センター",
+        "desc": "ネットワーク攻防、暗号学とデータ安全研究"
+      },
+      {
+        "name": "量子計算研究所",
+        "desc": "量子アルゴリズム、量子通信と量子暗号研究"
+      }
+    ],
+    "libraryTitle": "図書館リソース",
+    "libraryText": "大学附属図書館は豊富な紙媒体と電子リソースを有し、教職員と学生に优质な学術サポート・サービスを提供します。",
+    "libraryStats": {
+      "books": {
+        "number": "200万+",
+        "label": "紙媒体蔵書"
+      },
+      "journals": {
+        "number": "50,000+",
+        "label": "学術ジャーナル"
+      },
+      "databases": {
+        "number": "120+",
+        "label": "電子データベース"
+      },
+      "seats": {
+        "number": "3,000+",
+        "label": "閲覧座席"
+      }
+    },
+    "researchAreas": [
+      {
+        "title": "人工知能",
+        "desc": "ディープラーニング、自然言語処理、コンピュータビジョン、知的決定などの前沿研究。医療AI、自動運転などの分野で突破的進展を遂げる。",
+        "image": "/images/picsum_4.jpg",
+        "tags": [
+          "ディープラーニング",
+          "NLP",
+          "コンピュータビジョン"
+        ]
+      },
+      {
+        "title": "バイオテクノロジー",
+        "desc": "バイオインフォマティクス、遺伝子工学、合成生物学などの学際的研究。人間の健康と持続可能な発展の鍵問題の解決に尽力。",
+        "image": "/images/picsum_5.jpg",
+        "tags": [
+          "遺伝子工学",
+          "バイオインフォマティクス",
+          "合成生物学"
+        ]
+      },
+      {
+        "title": "環境科学",
+        "desc": "気候変動、環境汚染治理、再生可能エネルギーなどの研究。持続可能な発展に科学的根拠と技術支援を提供。",
+        "image": "/images/picsum_6.jpg",
+        "tags": [
+          "気候研究",
+          "汚染治理",
+          "再生可能エネルギー"
+        ]
+      },
+      {
+        "title": "データサイエンス",
+        "desc": "ビッグデータ分析、データマイニング、分散コンピューティングなどの方向。知能データ処理プラットフォームを構築。",
+        "image": "/images/picsum_8.jpg",
+        "tags": [
+          "ビッグデータ",
+          "データマイニング",
+          "分散コンピューティング"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "知能医療診断システム",
+        "desc": "ディープラーニングに基づく医療画像分析システム。医者の疾病診断を補助し、正確率は国際的な先駆レベルに達している。",
+        "status": "進行中",
+        "statusClass": "status-active",
+        "leader": "張教授チーム",
+        "duration": "2023-2025",
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22 12h-4l-3 9L9 3l-3 9H2\"/></svg>"
+      },
+      {
+        "title": "持続可能エネルギーソリューション",
+        "desc": "新型太陽電池とエネルギー貯蔵技術を開発。エネルギー利用効率を向上させ、ポーランドとヨーロッパのエネルギー転換に技術支援を提供。",
+        "status": "完了",
+        "statusClass": "status-done",
+        "leader": "李教授チーム",
+        "duration": "2021-2024",
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"5\"/><line x1=\"12\" y1=\"1\" x2=\"12\" y2=\"3\"/><line x1=\"12\" y1=\"21\" x2=\"12\" y2=\"23\"/><line x1=\"4.22\" y1=\"4.22\" x2=\"5.64\" y2=\"5.64\"/><line x1=\"18.36\" y1=\"18.36\" x2=\"19.78\" y2=\"19.78\"/><line x1=\"1\" y1=\"12\" x2=\"3\" y2=\"12\"/><line x1=\"21\" y1=\"12\" x2=\"23\" y2=\"12\"/><line x1=\"4.22\" y1=\"19.78\" x2=\"5.64\" y2=\"18.36\"/><line x1=\"18.36\" y1=\"5.64\" x2=\"19.78\" y2=\"4.22\"/></svg>"
+      },
+      {
+        "title": "スマートシティーIoT",
+        "desc": "都市レベルのIoTプラットフォームを構築。交通、安全、環境モニタリングなどの分野の知能化管理を実現。ワルシャワ市で試験的に応用済み。",
+        "status": "進行中",
+        "statusClass": "status-active",
+        "leader": "王教授チーム",
+        "duration": "2022-2026",
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 16V8a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2z\"/><polyline points=\"3.27 6.96 12 12.01 20.73 6.96\"/><line x1=\"12\" y1=\"22.08\" x2=\"12\" y2=\"12\"/></svg>"
+      }
+    ],
+    "resources": [
+      {
+        "title": "図書館",
+        "desc": "蔵書は100万冊以上。豊富な電子リソースとデータベース・アクセスサービスを提供。"
+      },
+      {
+        "title": "実験室",
+        "desc": "50余りの専門実験室を擁し、先駆的な科学儀器と設備を備えている。"
+      },
+      {
+        "title": "学術期刊",
+        "desc": "学校は3冊の国際学術期刊を主催。通信、コンピューター、データサイエンス分野をカバー。"
+      },
+      {
+        "title": "学術交流",
+        "desc": "定期的に国際学術会議と講座を開催。学術交流と協力を促進。"
+      }
+    ],
+    "sectionTitles": {
+      "researchTitle": "研究分野",
+      "researchSubtitle": "前沿技術を探索し、未知の分野を発見",
+      "projectsTitle": "重点プロジェクト",
+      "projectsSubtitle": "高レベルの科学研究プロジェクト",
+      "resourcesTitle": "学術リソース",
+      "resourcesSubtitle": "豊富な学術リソース"
+    }
+  },
+  "admissions": {
+    "title": "入学案内",
+    "subtitle": "私たちに参加し、卓越した学術の旅を始めましょう",
+    "overviewTitle": "募集概要",
+    "overviewText": "ポーランド連通大学は世界に向けて優れた学生を募集し、学部、修士と博士の三つの層次の学位教育を提供します。革新精神と国際視野を備えた優れた学生の出願を歓迎します。",
+    "undergraduateTitle": "学部募集",
+    "undergraduateText": "学部専攻は通信、コンピューター、電子情報などの主要分野をカバーし、学制は四年です。出願者は高校卒業証書を有し、かつ本校が組織する入学試験をパスするか、同等効力の成績証明を提供する必要があります。",
+    "graduateTitle": "大学院募集",
+    "graduateText": "修士学制は二〜三年、博士学制は三〜五年です。出願者は関連専攻の学士号または修士号を有し、かつ本校が組織する入学試験をパスする必要があります。",
+    "internationalTitle": "国際学生",
+    "internationalText": "本校は国際学生の出願を熱烈に歓迎し、多種類の奨学金と助学金プログラムを提供します。国際学生は言語能力証明（英語またはポーランド語）を提供する必要があります。",
+    "applyTitle": "出願フロー",
+    "applySteps": [
+      "オンライン出願",
+      "書類提出",
+      "入学試験/面接",
+      "合格通知",
+      "入学確認"
+    ],
+    "deadlineTitle": "重要な日付",
+    "deadlines": [
+      {
+        "date": "年間を通じて出願受付",
+        "event": "学部出願"
+      },
+      {
+        "date": "年間を通じて出願受付",
+        "event": "修士出願"
+      },
+      {
+        "date": "年間を通じて出願受付",
+        "event": "博士出願"
+      }
+    ],
+    "contactTitle": "募集相談",
+    "contactText": "募集に関するご質問がございましたら、以下の方法で募集オフィスまでお問い合わせください：",
+    "contactPhone": "電話",
+    "contactEmail": "電子メール",
+    "contactOffice": "募集オフィス",
+    "plans": [
+      {
+        "title": "学部募集",
+        "degree": "Bachelor Programs",
+        "deadline": "年間随時受付",
+        "duration": "4年",
+        "featured": false,
+        "features": [
+          "50+ 学部専攻利用可能",
+          "バイリンガル教育（中英）",
+          "国際交換生機会",
+          "奨学金普及率が高い"
+        ]
+      },
+      {
+        "title": "修士募集",
+        "degree": "Master Programs",
+        "deadline": "年間随時受付",
+        "duration": "2年",
+        "featured": true,
+        "features": [
+          "30+ 修士専攻方向",
+          "メンター制個別化培養",
+          "前沿科学研究プロジェクト参加",
+          "国際共同育成機会"
+        ]
+      },
+      {
+        "title": "博士募集",
+        "degree": "PhD Programs",
+        "deadline": "年間随時受付",
+        "duration": "3-5年",
+        "featured": false,
+        "features": [
+          "20+ 博士研究方向",
+          "全額奨学金支援",
+          "国際会議資金",
+          "高レベル論文発表指導"
+        ]
+      }
+    ],
+    "requirements": [
+      {
+        "title": "言語要件",
+        "desc": "英語母国語ではない出願者は英語力証明を提供する必要がある",
+        "items": [
+          "IELTS 6.5以上",
+          "TOEFL 90以上",
+          "または同等の英語力証明"
+        ]
+      },
+      {
+        "title": "学術要件",
+        "desc": "良好な学術的背景と学習能力を有する",
+        "items": [
+          "学部出願：高校卒業または同等学歴",
+          "修士出願：関連専攻学士号",
+          "博士出願：関連専攻修士号",
+          "GPA 3.0以上優先"
+        ]
+      },
+      {
+        "title": "出願材料",
+        "desc": "完備した出願材料の準備は成功录取の鍵",
+        "items": [
+          "在線出願申請書",
+          "学歴証明と成績証明",
+          "個人陳述（PS）",
+          "推薦状 2-3通",
+          "有効パスポートコピー"
+        ]
+      }
+    ],
+    "processSteps": [
+      {
+        "title": "在線出願",
+        "desc": "在線出願申請書を記入し、必要な材料を了載"
+      },
+      {
+        "title": "材料審査",
+        "desc": "募集委員会が出願材料を審査"
+      },
+      {
+        "title": "面接評価",
+        "desc": "一部の専攻は在線面接を受ける必要がある"
+      },
+      {
+        "title": "录取通知",
+        "desc": "录取通知書を発行し、入学手続を弁理"
+      }
+    ],
+    "sectionTitles": {
+      "plansTitle": "募集計画",
+      "plansSubtitle": "学部、修士、博士 - 本格募集",
+      "requirementsTitle": "入学要件",
+      "requirementsSubtitle": "出願条件を理解し、十分に準備",
+      "processTitle": "出願プロセス",
+      "processSubtitle": "4ステップで出願完遂、楽に入学",
+      "ctaTitle": "大学の旅を始める準備はできましたか？",
+      "ctaDesc": "今すぐ出願、ポーランド聯通大学に加入し、私達と一緒に未来を接続"
+    },
+    "featuredBadge": "お勧め",
+    "deadlinePrefix": "締切日：",
+    "durationPrefix": "期間：",
+    "applyNow": "今すぐ申請",
+    "requirementsTitle": "入学要件",
+    "requirementsSubtitle": "出願条体を理解し、十分な準備をする",
+    "applyStepDescs": [
+      "オンライン出願フォームを記入し、必要書類をアップロード",
+      "入試委員会が出願書類を審査",
+      "一部の専攻はオンライン面接が必要",
+      "合格通知書発行、入学手続き"
+    ],
+    "processTitle": "出願フロー",
+    "processSubtitle": "4ステップで出願完了",
+    "ctaTitle": "大学の旅を始める準備はできていますか？",
+    "ctaText": "今すぐ申請して、ポーランド通信大学に加入し、私達と一緒に未来を繋げましょう",
+    "checkAdmission": "合格通知書を照会",
+    "contactForDetails": "詳細を問い合わせ"
+  },
+  "campus": {
+    "title": "キャンパスライフ",
+    "subtitle": "多彩なキャンパス文化、温かい学習生活環境",
+    "overviewTitle": "キャンパス概要",
+    "overviewText": "ポーランド連通大学は近代的なキャンパス施設を有し、学生に優れた学習と生活環境を提供します。キャンパス内には図書館、実験室、体育館、学生寮などの各種施設が設置されています。",
+    "dormTitle": "学生寮",
+    "dormText": "大学は多種類の学生寮を提供し、部屋には基本家具とネットワーク・インターフェイスが備えられています。校内寮は教学楼まで徒歩10分以内です。",
+    "foodTitle": "飲食サービス",
+    "foodText": "キャンパス内には複数の学生食堂があり、中華、西洋、ハラールなどの選択を提供しています。食堂環境は快適で、価格は合理的です。",
+    "sportsTitle": "スポーツ",
+    "sportsText": "大学は標準陸上競技場、室内体育館、プール、テニスコートなどの各種スポーツ施設を有し、定期的にスポーツ競技会を開催しています。",
+    "clubsTitle": "学生クラブ",
+    "clubsText": "大学には100余りの学生クラブがあり、学術、芸術、スポーツ、公益などの複数分野をカバーし、学生の課外生活を豊富にしています。",
+    "galleryTitle": "キャンパス風景",
+    "galleryDesc": "私たちの美しいキャンパスを探索",
+    "facilities": [
+      {
+        "title": "現代化図書館",
+        "desc": "蔵書は100万冊以上。静かな学習空間と豊富な電子リソースを提供。24時間自習エリア利用可能。"
+      },
+      {
+        "title": "体育施設",
+        "desc": "標準陸上競技場、プール、バスケットボール館、バドミントン館など完備。多様化した運動需要を満足。"
+      },
+      {
+        "title": "飲食サービス",
+        "desc": "複数の食堂とコーヒーショップ。中華と西洋の飲食選択を提供。異なる味覚需要を満足、食品安全保障あり。"
+      },
+      {
+        "title": "学生寮",
+        "desc": "快適な学生アパート。エアコン、独立バスルーム、高速インターネット完備。安全で温かい居住環境を提供。"
+      }
+    ],
+    "activities": [
+      {
+        "title": "キャンパス文化祭",
+        "tag": "文化活動",
+        "date": "2024年6月",
+        "desc": "「革新・融合・未来」をテーマにした第10回キャンパス文化祭。文芸公演、科技展覧、創意市集など豊富な活動をカバー。"
+      },
+      {
+        "title": "体育競技",
+        "tag": "体育活動",
+        "date": "2024年5月",
+        "desc": "年一度の校際運動会。陸上競技、バスケットボール、フットボール、水泳など複数の項目をカバー。学生の体育精神を展示。"
+      },
+      {
+        "title": "学術講座",
+        "tag": "学術活動",
+        "date": "2024年4月",
+        "desc": "国際的に有名な学者を招いて学術講座を開催。前沿科技、人文社科など複数の分野をカバー。"
+      }
+    ],
+    "organizations": [
+      {
+        "title": "学生委員会",
+        "desc": "学生の利益を代表し、各類のキャンパス活動を組織。学生と学校の溝通の架け橋であり、指導力と組織能力を培養。",
+        "members": "200+"
+      },
+      {
+        "title": "学術サークル",
+        "desc": "コンピューター、通信、人工知能などをカバーする学術サークル。定期的に技術分譲とプロジェクト実践活動を開催。",
+        "members": "500+"
+      },
+      {
+        "title": "興味クラブ",
+        "desc": "音楽、ダンス、撮影、書道、eスポーツなど各類の興味クラブ。学生の多様化した興味発展需要を満足。",
+        "members": "800+"
+      }
+    ],
+    "sectionTitles": {
+      "facilitiesTitle": "キャンパス施設",
+      "facilitiesSubtitle": "完備した施設、学習と生活をサポート",
+      "activitiesTitle": "学生活動",
+      "activitiesSubtitle": "多多彩なキャンパス文化、青春の活力を刺激",
+      "orgsTitle": "学生組織",
+      "orgsSubtitle": "サークルに加入し、視野を拡大、能力を向上"
+    },
+    "membersSuffix": " メンバー"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "Contact Us",
+    "sectionTitle": "連絡先",
+    "sectionDesc": "いつでもご連絡ください",
+    "formTitle": "メッセージを送信",
+    "formDesc": "以下のフォームに記入してください、できるだけ早く返信いたします",
+    "name": "氏名",
+    "email": "メール",
+    "phone": "電話",
+    "type": "お問い合わせ種類",
+    "message": "メッセージ内容",
+    "required": "*",
+    "namePlaceholder": "氏名を入力してください",
+    "emailPlaceholder": "メールを入力してください",
+    "phonePlaceholder": "電話を入力してください",
+    "typePlaceholder": "選択してください",
+    "typeOptions": {
+      "admission": "招生相談",
+      "academic": "学術相談",
+      "general": "一般相談",
+      "other": "その他"
+    },
+    "messagePlaceholder": "メッセージを入力してください",
+    "submit": "メッセージを提出",
+    "submitting": "提出中...",
+    "success": "メッセージが正常に提出されました！できるだけ早くご連絡いたします。",
+    "error": {
+      "name": "氏名を入力してください",
+      "email": "メールを入力してください",
+      "emailInvalid": "メール形式が正しくありません",
+      "message": "メッセージ内容を入力してください"
+    },
+    "contactItems": [
+      {
+        "title": "住所",
+        "value": "ポーランドワルシャウ大学路123号",
+        "note": "ワルシャウキャンパス"
+      },
+      {
+        "title": "電話",
+        "value": "+48 22 107 98 99",
+        "note": "招生ホットライン：月-金 9:00-17:00"
+      },
+      {
+        "title": "メール",
+        "value": "uniomo{'@'}10010.edu.pl",
+        "note": "24時間以内に返信いたします"
+      },
+      {
+        "title": "営業時間",
+        "value": "月-金 8:30 - 17:00",
+        "note": "祝日を除く"
+      }
+    ],
+    "mapTitle": "キャンパス位置",
+    "mapDesc": "ul. Uniwersytecka 123, Warszawa, Polska",
+    "mapInfo": {
+      "hours": "月-金 8:30 - 17:00",
+      "security": "24時間キャンパス安全巡回"
+    }
+  },
+  "login": {
+    "title": "管理システムログイン",
+    "username": "ユーザー名",
+    "password": "パスワード",
+    "usernamePlaceholder": "ユーザー名を入力",
+    "passwordPlaceholder": "パスワードを入力",
+    "rememberMe": "私を覚える",
+    "loginBtn": "ログイン",
+    "error": "ユーザー名またはパスワードが間違っています、再試行してください",
+    "brandTitle": "ポーランド聯通大学",
+    "brandTitleEn": "Polish University of Communications",
+    "brandMotto": "卓越教育 · 未来を接続",
+    "brandMottoEn": "Excellence in Education, Connecting the Future",
+    "brandDesc": "ポーランド聯通大学\n校務管理システム\n管理者アカウントでログインし、录取通知書を管理してください",
+    "mobileWarning": "最適な体験のために、デスクトップ版を使用してログインしてください",
+    "loginTitle": "学校管理システム",
+    "loginSubtitle": "管理者ログイン",
+    "loggingIn": "ログイン中...",
+    "backHome": "ホームに戻る",
+    "queryLetter": "录取通知書照会",
+    "queryDiploma": "卒業証書照会",
+    "validation": {
+      "username": "ユーザー名を入力してください",
+      "password": "パスワードを入力してください"
+    },
+    "loginErrorUser": "ユーザー名を入力してください",
+    "loginErrorPass": "パスワードを入力してください",
+    "loginErrorWrong": "ユーザー名またはパスワードが間違っています",
+    "loginDesc": "管理者アカウントでログインして合格通知書を管理してください"
+  },
+  "dashboard": {
+    "title": "校務管理システム",
+    "welcome": "使用する管理機能を選択してください",
+    "stats": {
+      "letters": {
+        "title": "合格通知書",
+        "desc": "発行済み"
+      },
+      "diplomas": {
+        "title": "卒業証書",
+        "desc": "発行済み"
+      },
+      "students": {
+        "title": "学生総数",
+        "desc": "在学"
+      }
+    },
+    "quickActions": "クイックアクション",
+    "issueLetter": "合格通知書発行",
+    "issueDiploma": "卒業証書発行",
+    "queryLetter": "录取通知書照会",
+    "queryDiploma": "卒業証書照会",
+    "recentLetters": "最近発行された合格通知書",
+    "recentDiplomas": "最近発行された卒業証書",
+    "viewBtn": "表示",
+    "downloadBtn": "ダウンロード",
+    "deleteBtn": "削除",
+    "logout": "ログアウト",
+    "noData": "データはまだありません",
+    "admissionLetter": "录取通知書発行",
+    "admissionLetterDesc": "学生情報を記入し、正式な录取通知書を生成。ダウンロードと在線照会検証をサポート。",
+    "diploma": "卒業証書発行",
+    "diplomaDesc": "卒業生に正式な卒業証書を発行。ダウンロードと在線照会検証をサポート。",
+    "publicQuery": "公開照会入口"
+  },
+  "select": {
+    "title": "合格通知書照会",
+    "subtitle": "氏名と身份证番号/旅券番号を入力して照会してください",
+    "fullName": "氏名",
+    "idNumber": "身份证番号/旅券番号",
+    "fullNamePlaceholder": "氏名を入力してください",
+    "idNumberPlaceholder": "身份证番号または旅券番号を入力してください",
+    "searchBtn": "照 会",
+    "resetBtn": "リセット",
+    "noResult": "合格通知書が見つかりませんでした。情報を確認の上、再試行してください。",
+    "resultTitle": "录取通知書",
+    "downloadBtn": "原図ダウンロード",
+    "previewBtn": "プレビュー",
+    "heroTitle": "录取通知書照会",
+    "heroSubtitle": "Admission Letter Verification System",
+    "cardTitle": "在線照会",
+    "cardDesc": "個人情報を入力して录取通知書を照会してください",
+    "nameLabel": "氏名",
+    "idLabel": "身分証番号 / パスポート番号",
+    "namePlaceholder": "氏名を入力してください",
+    "idPlaceholder": "証明書番号を入力してください",
+    "searching": "照会中...",
+    "errorName": "完全な氏名を入力してください（少なくとも2文字）",
+    "errorId": "完全な身分証番号/パスポート番号を入力してください（少なくとも6文字）",
+    "errorNotFound": "录取通知書が見つかりません。氏名と身分証番号が正しいか確認してください",
+    "errorServer": "照会サービスは一時的に利用できません。後で再試行するか、学校募集弁公室にご連絡ください",
+    "resultBadge": "照会成功",
+    "infoTitle": "照会説明",
+    "infoText": "录取通知書と一致する氏名と証明書番号を入力してください。氏名は中国語と英語をサポートし、証明書番号は身分証とパスポートをサポートします。",
+    "contactTitle": "連絡先",
+    "contactText": "照会に問題がある場合は、募集弁公室にご連絡ください：uniomo{'@'}10010.edu.pl または電話 +48 22 107 98 99。",
+    "securityTitle": "安全提示",
+    "securityText": "本照会システムは录取通知書の真偽検証のみに使用されます。個人情報を大切に保管し、他人に証明書番号を漏らさないでください。",
+    "backHome": "ホームに戻る"
+  },
+  "diplomaSelect": {
+    "title": "卒業証書照会",
+    "subtitle": "氏名と身份证番号/旅券番号を入力して照会してください",
+    "fullName": "氏名",
+    "idNumber": "身份证番号/旅券番号",
+    "fullNamePlaceholder": "氏名を入力してください",
+    "idNumberPlaceholder": "身份证番号または旅券番号を入力してください",
+    "searchBtn": "照 会",
+    "resetBtn": "リセット",
+    "noResult": "卒業証書が見つかりませんでした。情報を確認の上、再試行してください。",
+    "resultTitle": "卒業証書",
+    "downloadBtn": "原図ダウンロード",
+    "previewBtn": "プレビュー",
+    "heroTitle": "卒業証書照会",
+    "heroSubtitle": "Diploma Verification System",
+    "cardTitle": "在線照会",
+    "cardDesc": "個人情報を入力して卒業証書を照会してください",
+    "nameLabel": "氏名",
+    "idLabel": "身分証番号 / パスポート番号",
+    "namePlaceholder": "氏名を入力してください",
+    "idPlaceholder": "証明書番号を入力してください",
+    "searching": "照会中...",
+    "errorName": "完全な氏名を入力してください（少なくとも2文字）",
+    "errorId": "完全な身分証番号/パスポート番号を入力してください（少なくとも6文字）",
+    "errorNotFound": "卒業証書が見つかりません。氏名と身分証番号が正しいか確認してください",
+    "errorServer": "照会サービスは一時的に利用できません。後で再試行するか、学校募集弁公室にご連絡ください",
+    "resultBadge": "照会成功",
+    "infoTitle": "照会説明",
+    "infoText": "卒業証書と一致する氏名と証明書番号を入力してください。氏名は中国語と英語をサポートし、証明書番号は身分証とパスポートをサポートします。",
+    "contactTitle": "連絡先",
+    "contactText": "照会に問題がある場合は、教務処にご連絡ください：uniomo{'@'}10010.edu.pl または電話 +48 22 107 98 99。",
+    "securityTitle": "安全提示",
+    "securityText": "本照会システムは卒業証書の真偽検証のみに使用されます。個人情報を大切に保管し、他人に証明書番号を漏らさないでください。",
+    "backHome": "ホームに戻る"
+  },
+  "admissionLetter": {
+    "title": "合格通知書発行",
+    "subtitle": "学生情報を記入し、合格通知書を生成",
+    "form": {
+      "name": "氏名",
+      "englishName": "英語氏名",
+      "idNumber": "身份证番号/旅券番号",
+      "specialty": "専攻",
+      "degree": "学位種類",
+      "year": "入学年度",
+      "semester": "入学学期",
+      "issueDate": "発行日",
+      "namePlaceholder": "学生氏名を入力してください",
+      "englishNamePlaceholder": "英語氏名を入力してください",
+      "idNumberPlaceholder": "身份证番号または旅券番号を入力してください",
+      "specialtyPlaceholder": "専攻を選択してください",
+      "degreePlaceholder": "学位種類を選択してください",
+      "yearPlaceholder": "入学年度を選択してください",
+      "semesterPlaceholder": "入学学期を選択してください",
+      "issueDatePlaceholder": "発行日を選択してください"
+    },
+    "previewBtn": "通知書をプレビュー",
+    "downloadBtn": "通知書画像をダウンロード",
+    "downloading": "生成中...",
+    "resetBtn": "フォームをリセット",
+    "notification": {
+      "fillForm": "フォームを完了してください",
+      "generated": "合格通知書が生成されました",
+      "downloaded": "画像がダウンロードされ、サーバーに保存されました",
+      "downloadedNoServer": "画像がダウンロードされました（サーバー保存失敗、照会機能が利用できない場合があります）",
+      "noDoc": "通知書要素が見つかりません、プレビューを再生成してください",
+      "error": "ダウンロード失敗"
+    }
+  },
+  "diploma": {
+    "title": "卒業証書発行",
+    "subtitle": "学生情報を記入し、卒業証書を生成",
+    "form": {
+      "name": "氏名",
+      "englishName": "英語氏名",
+      "idNumber": "身份证番号/旅券番号",
+      "specialty": "専攻",
+      "degree": "学位種類",
+      "enrollmentYear": "入学年度",
+      "graduationDate": "卒業日",
+      "studyDuration": "学制",
+      "namePlaceholder": "学生氏名を入力してください",
+      "englishNamePlaceholder": "英語氏名を入力してください",
+      "idNumberPlaceholder": "身份证番号または旅券番号を入力してください",
+      "specialtyPlaceholder": "専攻を選択してください",
+      "degreePlaceholder": "学位種類を選択してください",
+      "enrollmentYearPlaceholder": "入学年度を選択してください",
+      "graduationDatePlaceholder": "卒業日を選択してください",
+      "studyDurationPlaceholder": "学制を入力してください"
+    },
+    "previewBtn": "卒業証書をプレビュー",
+    "downloadBtn": "卒業証書画像をダウンロード",
+    "downloading": "生成中...",
+    "resetBtn": "フォームをリセット",
+    "notification": {
+      "fillForm": "フォームを完了してください",
+      "generated": "卒業証書が生成されました",
+      "downloaded": "画像がダウンロードされ、サーバーに保存されました",
+      "downloadedNoServer": "画像がダウンロードされました（サーバー保存失敗、照会機能が利用できない場合があります）",
+      "noDoc": "証書要素が見つかりません、プレビューを再生成してください",
+      "error": "ダウンロード失敗"
+    },
+    "queryTitle": "卒業証書照会",
+    "querySubtitle": "Diploma Verification System",
+    "onlineQuery": "オンライン照会",
+    "queryDesc": "個人情報を入力して合格通知書を照会してください",
+    "name": "氏名",
+    "idNumber": "身分証番号 / パスポート番号",
+    "namePlaceholder": "氏名を入力",
+    "idPlaceholder": "証明書番号を入力",
+    "queryBtn": "照 会",
+    "querying": "照会中...",
+    "querySuccess": "照会成功",
+    "download": "原図をダウンロード",
+    "instructions": "照会説明",
+    "instructionsText": "合格通知書と一致する氏名と証明書番号を入力してください。氏名は中国語と英語をサポートし、証明書番号は身分証とパスポートをサポートします。",
+    "contact": "連絡先",
+    "contactText": "照会に問題がある場合は、入学事務所に連絡してください：uniomo{'@'}10010.edu.pl または +48 22 107 98 99。",
+    "security": "安全提示",
+    "securityText": "この照会システムは合格通知書の真正性を検証するためだけに使用されます。個人情報を安全に保管し、他人に証明書番号を漏らさないでください。"
+  },
+  "footer": {
+    "desc": "ポーランド連通大学は、国際的視野と革新精神を備えた優れた人材の育成に尽力し、学術と未来を繋ぎ、無限の可能性を創造します。",
+    "quickLinks": "クイックリンク",
+    "services": "サービスシステム",
+    "contactUs": "連絡先",
+    "library": "図書館システム",
+    "academic": "学籍管理システム",
+    "onlineLearning": "オンライン学習プラットフォーム",
+    "calendar": "学術カレンダー",
+    "privacy": "プライバシー政策",
+    "terms": "利用規約",
+    "sitemap": "サイトマップ",
+    "copyright": " ポーランド連通大学 Polish University of Communications. All Rights Reserved."
+  },
+  "admissionLetterDoc": {
+    "mainTitle": "合格通知書",
+    "mainTitleEn": "ADMISSION LETTER",
+    "numberPrefix": "番号",
+    "infoLabels": {
+      "name": "氏名",
+      "englishName": "英語氏名",
+      "idNumber": "身份证番号/旅券番号"
+    },
+    "body": "審査の結果、あなたはポーランド連通大学 <strong>{degree}</strong> 研究生として合格し、<strong>{specialty}</strong> 専攻に在学し、<strong>{year}</strong> 年 <strong>{semester}</strong> 学期に入学することになりました。学籍番号：<strong>{number}</strong>。本通知書に定める時間に、本通知書、身分証明書及び関連資料を携帯して、ポーランド連通大学まで届け出て登録してください。具体的な届け出時間と場所については、大学公式ウェブサイト（www.10010.edu.pl）が発表する関連通知にご注意ください。ポーランド連通大学の一員となったことをお祝いし、今後の学習生活で優れた成績を収めることを願っております！",
+    "signatureRoles": {
+      "director": "募集部主任",
+      "president": "校　長"
+    },
+    "signatureNames": {
+      "director": "GUIXIANGZHONG",
+      "president": "WANGZHENG"
+    },
+    "qrLabel": "スキャンして検証",
+    "noticeTitle": "重要な注意 / Important Notice",
+    "notices": [
+      "本通知書はポーランド連通大学の正式な合格文書です。大切に保管してください。",
+      "届け出の際は、本通知書原本、身分証明書原本及び写しを携帯してください。",
+      "This admission letter is an official document of Polish University of Communications.",
+      "Please bring this letter and your ID documents for registration."
+    ],
+    "footerText": "ポーランド連通大学 募集オフィス",
+    "uniName": "ポーランド連通大学",
+    "uniNameEn": "Polish University of Communications",
+    "website": "www.10010.edu.pl"
+  },
+  "diplomaDoc": {
+    "mainTitle": "卒業証書",
+    "mainTitleEn": "GRADUATION DIPLOMA",
+    "numberPrefix": "証書番号",
+    "infoLabels": {
+      "name": "氏名",
+      "englishName": "英語氏名",
+      "idNumber": "身份证番号/旅券番号"
+    },
+    "body": "学生 <strong>{name}</strong>（{englishName}）、性別{nender}、<strong>{year}</strong> 年にポーランド連通大学 <strong>{specialty}</strong> 専攻に入学し、<strong>{degree}</strong> 学位の定める全部の課程を修了し、成績合格のため、卒業を許可されます。学制 <strong>{duration}</strong>、卒業日：<strong>{date}</strong>、証書番号：<strong>{number}</strong>。ここに本証を発行し、証明といたします。本証書はポーランド連通大学が正式に発行した学歴証書であり、学校公式ウェブサイト（www.10010.edu.pl）をスキャンして真正性を検証することができます。",
+    "signatureRoles": {
+      "dean": "教務処処長",
+      "president": "校　長"
+    },
+    "signatureNames": {
+      "dean": "GUIXIANGZHONG",
+      "president": "WANGZHENG"
+    },
+    "qrLabel": "スキャンして検証",
+    "noticeTitle": "重要説明 / Important Notice",
+    "notices": [
+      "本卒業証書はポーランド連通大学の正式な学歴証書です。大切に保管してください。",
+      "証書の真正性は、右下方のQRコードをスキャンするか、学校公式ウェブサイトを訪問して検証できます。",
+      "This diploma is an official document of Polish University of Communications.",
+      "Any alteration or forgery of this document is subject to legal prosecution."
+    ],
+    "footerText": "ポーランド連通大学",
+    "uniName": "ポーランド連通大学",
+    "uniNameEn": "Polish University of Communications",
+    "website": "www.10010.edu.pl"
+  },
+  "common": {
+    "backToTop": "トップへ戻る",
+    "backToHome": "ホームに戻る"
+  },
+  "query": {
+    "queryTitle": "合格通知書照会",
+    "querySubtitle": "Admission Letter Verification System",
+    "onlineQuery": "オンライン照会",
+    "queryDesc": "個人情報を入力して合格通知書を照会してください",
+    "name": "氏名",
+    "idNumber": "身分証番号 / パスポート番号",
+    "namePlaceholder": "氏名を入力",
+    "idPlaceholder": "証明書番号を入力",
+    "queryBtn": "照 会",
+    "querying": "照会中...",
+    "querySuccess": "照会成功",
+    "diplomaTitle": "卒業証書",
+    "download": "原図をダウンロード",
+    "instructions": "照会説明",
+    "instructionsText": "合格通知書と一致する氏名と証明書番号を入力してください。氏名は中国語と英語をサポートし、証明書番号は身分証とパスポートをサポートします。",
+    "contact": "連絡先",
+    "contactText": "照会に問題がある場合は、入学事務所に連絡してください：uniomo{'@'}10010.edu.pl または +48 22 107 98 99。",
+    "security": "安全提示",
+    "securityText": "この照会システムは合格通知書の真正性を検証するためだけに使用されます。個人情報を安全に保管し、他人に証明書番号を漏らさないでください。"
+  }
+}
