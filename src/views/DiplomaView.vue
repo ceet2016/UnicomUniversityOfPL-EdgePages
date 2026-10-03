@@ -320,16 +320,27 @@ const downloadImage = async () => {
 }
 
 const saveDiplomaToServer = async (blob, fileName) => {
+  // 必须携带登录令牌，后端会校验，未登录用户无法保存（仅允许查看/搜索）。
+  const token = localStorage.getItem('sessionToken')
+  if (!token) {
+    throw new Error('未登录，无法保存毕业证')
+  }
   const formDataObj = new FormData()
   formDataObj.append('image', blob, fileName)
 
   const response = await fetch('/save-diploma', {
     method: 'POST',
+    headers: { Authorization: `Bearer ${token}` },
     body: formDataObj
   })
 
   if (!response.ok) {
-    throw new Error('Server save failed')
+    let msg = 'Server save failed'
+    try {
+      const errData = await response.json()
+      if (errData && errData.message) msg = errData.message
+    } catch (e) { /* 忽略非 JSON 响应 */ }
+    throw new Error(msg)
   }
 }
 

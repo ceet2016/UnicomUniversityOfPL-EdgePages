@@ -23,6 +23,19 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const VALID_USERNAME = process.env.ADMIN_USERNAME || 'admin'
 const VALID_PASSWORD = process.env.ADMIN_PASSWORD || 'ceet2016'
 
+// 签名会话令牌所用的密钥。生产环境务必通过 TOKEN_SECRET 环境变量设置强随机值，
+// 否则登录令牌可被离线伪造。
+const TOKEN_SECRET = process.env.TOKEN_SECRET || 'dev-only-insecure-secret-change-me'
+// 令牌有效期与前端路由守卫一致（24 小时）。
+const TOKEN_TTL_MS = 24 * 60 * 60 * 1000
+
+if (VALID_USERNAME === 'admin' && VALID_PASSWORD === 'ceet2016') {
+  console.warn('[安全警告] 正在使用默认管理员账号/密码，请通过 ADMIN_USERNAME / ADMIN_PASSWORD 环境变量设置强凭据。')
+}
+if (TOKEN_SECRET === 'dev-only-insecure-secret-change-me') {
+  console.warn('[安全警告] 正在使用默认 TOKEN_SECRET，请通过环境变量 TOKEN_SECRET 设置强随机值，否则登录令牌可被伪造。')
+}
+
 // RSA 密钥文件路径
 const KEYS_DIR = path.join(__dirname, 'keys')
 const PUBLIC_KEY_PATH = path.join(KEYS_DIR, 'public.pem')
@@ -36,8 +49,38 @@ const DIPLOMA_DIR = path.join(ROOT_DIR, 'diploma')
   if (!fs.existsSync(d)) fs.mkdirSync(d, { recursive: true })
 })
 
-// 存储有效会话 token
-const ACTIVE_TOKENS = {}
+// ===== 无状态签名会话令牌（与 cloud function 保持一致）=====
+function signToken(username) {
+  const payload = { sub: username, iat: Date.now(), exp: Date.now() + TOKEN_TTL_MS }
+  const data = Buffer.from(JSON.stringify(payload), 'utf8').toString('base64url')
+  const sig = crypto.createHmac('sha256', TOKEN_SECRET).update(data).digest('base64url')
+  return `${data}.${sig}`
+}
+
+function verifyToken(token) {
+  if (!token || typeof token !== 'string') return null
+  const parts = token.split('.')
+  if (parts.length !== 2) return null
+  const [data, sig] = parts
+  const expected = crypto.createHmac('sha256', TOKEN_SECRET).update(data).digest('base64url')
+  const a = Buffer.from(sig)
+  const b = Buffer.from(expected)
+  if (a.length !== b.length || !crypto.timingSafeEqual(a, b)) return null
+  let payload
+  try {
+    payload = JSON.parse(Buffer.from(data, 'base64url').toString('utf8'))
+  } catch {
+    return null
+  }
+  if (!payload.exp || Date.now() > payload.exp) return null
+  return payload
+}
+
+function bearerFromReq(req) {
+  const auth = req.headers['authorization'] || ''
+  if (auth.startsWith('Bearer ')) return auth.slice(7).trim()
+  return ''
+}
 
 // ========== RSA 工具函数 ==========
 
@@ -75,7 +118,7 @@ function sendJson(res, statusCode, data, cors = true) {
   if (cors) {
     res.setHeader('Access-Control-Allow-Origin', '*')
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
-    res.setHeader('Access-Control-Allow-Headers', 'Content-Type')
+    res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization')
   }
   res.writeHead(statusCode, { 'Content-Type': 'application/json; charset=utf-8' })
   res.end(body)
@@ -180,8 +223,7 @@ async function handleRequest(req, res) {
 
       // 验证凭据
       if (username === VALID_USERNAME && password === VALID_PASSWORD) {
-        const token = crypto.randomBytes(32).toString('hex')
-        ACTIVE_TOKENS[token] = { username, created: Date.now() }
+        const token = signToken(username)
         sendJson(res, 200, { success: true, token, message: '登录成功' })
         console.log(`[登录成功] 用户: ${username}`)
       } else {
@@ -191,8 +233,12 @@ async function handleRequest(req, res) {
       return
     }
 
-    // ===== POST /save-image =====
+    // ===== POST /save-image (requires login — add/modify operation) =====
     if (req.method === 'POST' && pathname === '/save-image') {
+      if (!verifyToken(bearerFromReq(req))) {
+        sendJson(res, 401, { success: false, message: '未授权：请先登录后再保存通知书' })
+        return
+      }
       const body = await readBody(req)
       const contentType = req.headers['content-type'] || ''
       const parts = parseMultipart(body, contentType)
@@ -211,8 +257,12 @@ async function handleRequest(req, res) {
       return
     }
 
-    // ===== POST /save-diploma =====
+    // ===== POST /save-diploma (requires login — add/modify operation) =====
     if (req.method === 'POST' && pathname === '/save-diploma') {
+      if (!verifyToken(bearerFromReq(req))) {
+        sendJson(res, 401, { success: false, message: '未授权：请先登录后再保存毕业证' })
+        return
+      }
       const body = await readBody(req)
       const contentType = req.headers['content-type'] || ''
       const parts = parseMultipart(body, contentType)

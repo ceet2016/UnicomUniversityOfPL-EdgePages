@@ -33,6 +33,19 @@ import { getStore } from '@edgeone/pages-blob'
 const VALID_USERNAME = process.env.ADMIN_USERNAME || 'admin'
 const VALID_PASSWORD = process.env.ADMIN_PASSWORD || 'ceet2016'
 
+// Secret used to sign session tokens. MUST be overridden in production via the
+// TOKEN_SECRET environment variable — otherwise tokens can be forged offline.
+const TOKEN_SECRET = process.env.TOKEN_SECRET || 'dev-only-insecure-secret-change-me'
+// Token lifetime matches the frontend route guard (24h).
+const TOKEN_TTL_MS = 24 * 60 * 60 * 1000
+
+if (VALID_USERNAME === 'admin' && VALID_PASSWORD === 'ceet2016') {
+  console.warn('[安全警告] 正在使用默认管理员账号/密码，请在部署环境中通过 ADMIN_USERNAME / ADMIN_PASSWORD 环境变量设置强凭据。')
+}
+if (TOKEN_SECRET === 'dev-only-insecure-secret-change-me') {
+  console.warn('[安全警告] 正在使用默认 TOKEN_SECRET，请通过环境变量 TOKEN_SECRET 设置强随机值，否则登录令牌可被伪造。')
+}
+
 // Custom `Server` value. NOTE: EdgeOne Pages/Makers DOES NOT allow overriding
 // the `Server` header on *static* responses (it is a platform-reserved header
 // injected by the node as `edgeone-pages`, and edgeone.json `headers` cannot
@@ -97,6 +110,48 @@ function rsaDecrypt(encryptedBase64, privateKeyPem) {
     .toString('utf8')
 }
 
+// ===== Stateless signed session token (serverless-friendly) =====
+// The login endpoint issues an HMAC-SHA256 signed token. Write endpoints
+// (/save-image, /save-diploma) verify it. No shared server state is required,
+// so it works correctly across EdgeOne's isolated function invocations and the
+// dev server alike. The token embeds its own expiry (24h).
+function signToken(username) {
+  const payload = { sub: username, iat: Date.now(), exp: Date.now() + TOKEN_TTL_MS }
+  const data = Buffer.from(JSON.stringify(payload), 'utf8').toString('base64url')
+  const sig = crypto.createHmac('sha256', TOKEN_SECRET).update(data).digest('base64url')
+  return `${data}.${sig}`
+}
+
+function verifyToken(token) {
+  if (!token || typeof token !== 'string') return null
+  const parts = token.split('.')
+  if (parts.length !== 2) return null
+  const [data, sig] = parts
+  const expected = crypto.createHmac('sha256', TOKEN_SECRET).update(data).digest('base64url')
+  const a = Buffer.from(sig)
+  const b = Buffer.from(expected)
+  if (a.length !== b.length || !crypto.timingSafeEqual(a, b)) return null
+  let payload
+  try {
+    payload = JSON.parse(Buffer.from(data, 'base64url').toString('utf8'))
+  } catch {
+    return null
+  }
+  if (!payload.exp || Date.now() > payload.exp) return null
+  return payload
+}
+
+function extractBearer(request) {
+  const auth = request.headers && request.headers.get ? request.headers.get('authorization') : ''
+  if (auth && auth.startsWith('Bearer ')) return auth.slice(7).trim()
+  return null
+}
+
+// Returns the verified token payload, or null if missing/invalid/expired.
+function requireAuth(request) {
+  return verifyToken(extractBearer(request))
+}
+
 // ===== Response helpers =====
 function json(data, status = 200) {
   return new Response(JSON.stringify(data), {
@@ -105,7 +160,7 @@ function json(data, status = 200) {
       'Content-Type': 'application/json; charset=utf-8',
       'Access-Control-Allow-Origin': '*',
       'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
-      'Access-Control-Allow-Headers': 'Content-Type',
+      'Access-Control-Allow-Headers': 'Content-Type, Authorization',
       'Server': SERVER_HEADER_VALUE
     }
   })
@@ -117,7 +172,7 @@ function handleOptions() {
     headers: {
       'Access-Control-Allow-Origin': '*',
       'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
-      'Access-Control-Allow-Headers': 'Content-Type',
+      'Access-Control-Allow-Headers': 'Content-Type, Authorization',
       'Server': SERVER_HEADER_VALUE
     }
   })
@@ -131,6 +186,11 @@ async function saveImageHandler(request, store) {
     return json({ success: false, message: '图片数据或文件名缺失' })
   }
   const buffer = Buffer.from(await file.arrayBuffer())
+  // Defense-in-depth: cap upload size to avoid storage/DoS abuse.
+  const MAX_IMAGE_BYTES = 10 * 1024 * 1024
+  if (buffer.length > MAX_IMAGE_BYTES) {
+    return json({ success: false, message: '文件过大，单次上传不能超过 10MB' })
+  }
   const filename = (file.name || `image_${Date.now()}.jpg`).replace(/[^\w.\-\u4e00-\u9fa5]/g, '_')
   await store.set(filename, buffer)
   console.log(`[保存] ${filename} (${buffer.length} bytes)`)
@@ -294,19 +354,25 @@ export async function onRequest(context) {
       }
 
       if (username === VALID_USERNAME && password === VALID_PASSWORD) {
-        const token = crypto.randomBytes(32).toString('hex')
+        const token = signToken(username)
         return json({ success: true, token, message: '登录成功' })
       }
       return json({ success: false, message: '用户名或密码错误' })
     }
 
-    // POST /save-image
+    // POST /save-image  (requires login — add/modify operation)
     if (method === 'POST' && pathname === '/save-image') {
+      if (!requireAuth(request)) {
+        return json({ success: false, message: '未授权：请先登录后再保存通知书' }, 401)
+      }
       return await saveImageHandler(request, certStore())
     }
 
-    // POST /save-diploma
+    // POST /save-diploma  (requires login — add/modify operation)
     if (method === 'POST' && pathname === '/save-diploma') {
+      if (!requireAuth(request)) {
+        return json({ success: false, message: '未授权：请先登录后再保存毕业证' }, 401)
+      }
       return await saveImageHandler(request, dipStore())
     }
 
